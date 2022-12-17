@@ -1,12 +1,20 @@
 import sys,os,json,re
 from copy import deepcopy
 from elasticsearch7 import Elasticsearch
+import configparser
+
+
+configini = configparser.ConfigParser()
+configini.read('config.ini')
+
+eshost = configini['es']['host']
+esport = configini['es']['port']
 
 
 d = json.loads(open(sys.argv[1]).read())
 props = json.loads(open('en1.json').read())
 arr = []
-es = Elasticsearch(host='ltcpu1',port=49158)
+es = Elasticsearch(host=eshost,port=int(esport))
 
 def getlabel(ent):
     results = es.search(index='wikidataentitylabelindex02',body={"query":{"term":{"uri":{"value":ent}}}})

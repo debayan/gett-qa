@@ -47,11 +47,8 @@ logging.getLogger("elasticsearch").setLevel(logging.WARNING)
 configini = configparser.ConfigParser()
 configini.read('config.ini')
 
-eslabelhost = configini['eslabel']['host']
-eslabelport = configini['eslabel']['port']
-
-esembedhost = configini['esembed']['host']
-esembedport = configini['esembed']['port']
+eshost = configini['es']['host']
+esport = configini['es']['port']
 
 sparqlhost = configini['sparql']['host']
 sparqlport = configini['sparql']['port']
@@ -60,8 +57,7 @@ labelsortlen = int(configini['candordering']['labelsort'])
 embedsortlen = int(configini['candordering']['embedsort'])
 
 
-es = Elasticsearch(host=eslabelhost,port=int(eslabelport))
-eskgembed = Elasticsearch(host=esembedhost,port=int(esembedport))
+es = Elasticsearch(host=eshost,port=int(esport))
 entrankcounter = Counter()
 
 model_name = 'quora-distilbert-multilingual'
