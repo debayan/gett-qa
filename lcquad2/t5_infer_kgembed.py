@@ -11,10 +11,10 @@ import random
 from pathlib import Path
 import sys
 import requests
-import redis
 import datasets
 import nltk
 import numpy as np
+import configparser
 import torch
 from datasets import load_dataset, load_metric
 from torch.utils.data import DataLoader
@@ -41,18 +41,32 @@ from transformers.utils.versions import require_version
 import itertools
 from elasticsearch7 import Elasticsearch
 from sentence_transformers import SentenceTransformer, util
-from annoy import AnnoyIndex
 logging.getLogger("requests").setLevel(logging.WARNING)
 logging.getLogger("elasticsearch").setLevel(logging.WARNING)
 
-es = Elasticsearch(host='ltcpu1',port=49158)
-eskgembed = Elasticsearch(host='ltcpu1',port=9700)
+configini = configparser.ConfigParser()
+configini.read('config.ini')
+
+eslabelhost = configini['eslabel']['host']
+eslabelport = configini['eslabel']['port']
+
+esembedhost = configini['esembed']['host']
+esembedport = configini['esembed']['port']
+
+sparqlhost = configini['sparql']['host']
+sparqlport = configini['sparql']['port']
+
+labelsortlen = int(configini['candordering']['labelsort'])
+embedsortlen = int(configini['candordering']['embedsort'])
+
+
+es = Elasticsearch(host=eslabelhost,port=int(eslabelport))
+eskgembed = Elasticsearch(host=esembedhost,port=int(esembedport))
 entrankcounter = Counter()
 
 model_name = 'quora-distilbert-multilingual'
 model = SentenceTransformer(model_name)
 #sparqlcache = json.loads(open('sparqlcache.json').read())
-red = redis.Redis(host='localhost', port=6379, db=0)
 propdict = json.loads(open('en1.json').read())
 goldrellabels = []
 for k,v in propdict.items():
@@ -149,7 +163,7 @@ def tpfpfn(goldres, queryres):
 
 def sparqlendpoint(query):
     try:
-        url = 'http://ltcpu1:1234/api/endpoint/sparql'
+        url = 'http://%s:%d/api/endpoint/sparql'%(sparqlhost,int(sparqlport))
         query = '''PREFIX p: <http://www.wikidata.org/prop/> PREFIX pq: <http://www.wikidata.org/prop/qualifier/> PREFIX ps: <http://www.wikidata.org/prop/statement/>   PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wds: <http://www.wikidata.org/entity/statement/> PREFIX wdt: <http://www.wikidata.org/prop/direct/> ''' + query
         #print(query)
         headers = {'Accept':'application/sparql-results+json'}
@@ -514,10 +528,6 @@ def main():
         preds = [pred.strip() for pred in preds]
         labels = [label.strip() for label in labels]
 
-        # rougeLSum expects newline after each sentence
-        #preds = ["\n".join(nltk.sent_tokenize(pred)) for pred in preds]
-        #labels = ["\n".join(nltk.sent_tokenize(label)) for label in labels]
-
         return preds, labels
 
     eval_dataloader = DataLoader(eval_dataset, collate_fn=data_collator, batch_size=args.per_device_eval_batch_size)
@@ -611,11 +621,6 @@ def main():
                          pred = pred.replace('?vr',' ?vr').replace(' where',' where {').replace(' kgembed>',' <kgembed>').replace('/kgembed>','</kgembed>').replace(')  @@',') { @@').replace(')  ?',') { ?').replace('limit','} limit')
                     else:
                         pred = pred.replace('?vr',' ?vr').replace(' where',' where {').replace(' kgembed>',' <kgembed>').replace('/kgembed>','</kgembed>').replace(')  @@',') { @@').replace(')  ?',') { ?') +'}'
-                    #pred = pred.replace('@@ }','@@entend }')
-                    #if 'limit' in pred:
-                    #    pred = pred.replace('limit','} limit')
-                    #else:
-                    #    pred += ' }'
                     print("preds:",pred,len(pred))
                     kd = {}
                     entlabels = re.findall( r'@@entbegin wd: \|\| (.*?) @@entend', pred)
@@ -637,8 +642,8 @@ def main():
                             print(err)
                             continue
                         s = '''@@entbegin wd: || '''+label+''' <kgembed> '''+kgembed[0]+''' </kgembed> @@entend'''
-                        kd[s] = [['wd:'+e[0],e[1]] for e in ent_cands_dots[:3]]
-                        kd[s] += [['wd:'+e[0],e[1]] for e in ent_cands_dots_sorted[:3]]
+                        kd[s] = [['wd:'+e[0],e[1]] for e in ent_cands_dots[:labelsortlen]]
+                        kd[s] += [['wd:'+e[0],e[1]] for e in ent_cands_dots_sorted[:embedsortlen]]
                     for rel in ['p:','ps:','pq:','wdt:']:
                         rellabels = re.findall( r'@@relbegin '+rel+' \|\| (.*?) @@relend' ,pred)
                         for label in rellabels:
@@ -660,11 +665,7 @@ def main():
                             m = m.replace(k, v[tup[tupcount]][0])
                             tupcount += 1
                         #print("m = ",m)
-                        if red.exists(m):
-                            queryresult = json.loads(red.get(m))
-                        else:
-                            queryresult = sparqlendpoint(m)
-                            red.set(m, json.dumps(queryresult))
+                        queryresult = sparqlendpoint(m)
                         if empty(queryresult):
                             continue
                         else:
