@@ -28,7 +28,6 @@ import os
 import random
 from pathlib import Path
 import sys
-import wandb
 
 import datasets
 import nltk
@@ -304,7 +303,6 @@ def parse_args():
 
 def main():
     args = parse_args()
-    wandb.init(project="lcq2-kgqa",name=args.output_dir)
     if args.source_prefix is None and args.model_name_or_path in [
         "t5-small",
         "t5-base",
@@ -498,9 +496,6 @@ def main():
         preds = [pred.strip() for pred in preds]
         labels = [label.strip() for label in labels]
 
-        # rougeLSum expects newline after each sentence
-        #preds = ["\n".join(nltk.sent_tokenize(pred)) for pred in preds]
-        #labels = ["\n".join(nltk.sent_tokenize(label)) for label in labels]
 
         return preds, labels
 
@@ -558,8 +553,6 @@ def main():
         experiment_config["lr_scheduler_type"] = experiment_config["lr_scheduler_type"].value
         accelerator.init_trackers("summarization_no_trainer", experiment_config)
 
-    # Metric
-    metric = load_metric("rouge")
 
     # Train!
     total_batch_size = args.per_device_train_batch_size * accelerator.num_processes * args.gradient_accumulation_steps
@@ -730,7 +723,6 @@ def main():
         result = {key: value.mid.fmeasure * 100 for key, value in result.items()}
         result = {k: round(v, 4) for k, v in result.items()}
         logger.info(result)
-        wandb.log({"epoch": epoch, "matches": matches, "dot": avgdot, "cos":avgcos})
         if args.with_tracking:
             result["train_loss"] = total_loss
             result["epoch"] = epoch
