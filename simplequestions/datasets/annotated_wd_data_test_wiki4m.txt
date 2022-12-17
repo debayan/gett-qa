@@ -1,0 +1,1523 @@
+Q154335	P509	Q12152	what was the cause of death of yves klein
+Q62498	P21	Q6581097	how does engelbert zaschka identify
+Q182485	P413	Q1143358	what position does pee wee reese play in baseball
+Q472382	P19	Q23051	what is the place of birth of sam edwards?
+Q439893	P413	Q193592	what position does josé francisco torres play?
+Q2629576	P19	Q33935	where was guy pnini born
+Q137259	P31	Q3863	what is the category of the celestial object 1241 dysona
+Q6134495	P19	Q131281	where was shigeyasu suzuki's place of birth
+Q2662597	P19	Q2868	where was paolo de la haza born?
+Q1114984	P495	Q30	in which country was overnight delivery filmed in
+Q1801175	P17	Q155	what is the second level division of the division crixás do tocantins
+Q7497593	P21	Q6581097	What is shinji mori's gender?
+Q149914	P397	Q525	what does  2674 pandarus orbit
+Q854479	P179	Q4802838	what series is super mario bros. 2 a part of
+Q605122	P403	Q143762	what is the mouth of the schuylkill river
+Q152875	P61	Q231618	who discovered 4171 carrasco
+Q365616	P106	Q3282637	What is the profession of julio medem?
+Q944752	P123	Q73801	who published the video game fable (video game)
+Q6768431	P27	Q30	which country is mark kramer from
+Q982396	P495	Q29	which country is the film the fish child from
+Q1768087	P272	Q2060840	what production company was involved in smokin' aces 2: assasins' ball
+Q3308567	P509	Q12192	what illness did michael visaroff die from
+Q151634	P264	Q664167	what label is ace of base signed to
+Q149113	P31	Q3863	is 2464 nordenskiöld a meteor or an asteroid
+Q746063	P149	Q236122	what style of architecture is villa deste
+Q715747	P31	Q3863	what is 6864 starkenburg
+Q4237347	P27	Q15180	what is aleksei kravchenko's origin?
+Q7712287	P364	Q9240	what language was the act of killing in?
+Q568239	P136	Q1054574	which type of film is the bitter tea of general yen released in?
+Q3520383	P57	Q653645	Who directed the film the congress
+Q1212606	P495	Q38	where is the priests wife set
+Q644372	P136	Q130232	what genre of film is princess caraboo
+Q3908631	P31	Q523	what category of celestial objects does kappa draconis belong to
+Q1757845	P404	Q208850	What's a gameplay mode in sacred
+Q1702403	P27	Q30	What is johnny russell's nationality?
+Q1660749	P495	Q30	what country did needful things take place in
+Q24075	P58	Q942914	who created the story for godzilla (1998 film)
+Q4201482	P19	Q10126	where was sjafruddin prawiranegara born
+Q143716	P1040	Q16247127	The film abduction  was edited by whom?
+Q3439287	P21	Q6581097	What is Roger Molliens gender?
+Q464393	P19	Q592764	where was hank cochran birthed
+Q443019	P27	Q664	leo bertos was born in what country?
+Q2914048	P495	Q142	which country is on my way from
+Q3543768	P21	Q6581097	what gender is hawkman?
+Q1935027	P21	Q6581072	What gender is laura kirkpatrick
+Q2290347	P136	Q828322	what kind of game is super monkey ball: banana blitz
+Q2732154	P58	Q55208	who wrote the film the inner circle
+Q7340338	P19	Q1087523	where is the birthplace of rob margolies
+Q13634387	P27	Q20	eva isaksen is a national of which state?
+Q5517090	P19	Q810847	where was gail harris born?
+Q4894396	P413	Q1142885	what position does bernie graham play
+Q957347	P27	Q30	What nation is jerry wald from?
+Q3281234	P136	Q200092	which genre does the title ancient evil: scream of the mummy fall under
+Q20420	P178	Q3026554	who developed the computer videogame empire earth
+Q4076151	P27	Q159	What is the nationality of vladimir baksheyev?
+Q1179645	P21	Q6581097	what is the gender of paul phoenix
+Q44428	P413	Q528145	which position does ray lewis play
+Q786	P150	Q592624	What first level division is in the Dominican Republic?
+Q503421	P413	Q193592	What is alain sutter position
+Q963351	P364	Q5146	what language is road house in?
+Q495982	P86	Q235077	Who composed the music for the salamander?
+Q1082452	P61	Q231618	who discovered 5551 glikson
+Q5922449	P172	Q49085	what is dave henderson ethnicity?
+Q766263	P136	Q1054574	which genre does chungking express belong to
+Q4357688	P19	Q33405	which city was gail davis born
+Q15434798	P21	Q6581072	what gender is the woman carolin fink
+Q2720896	P17	Q43	what country is porsuk river in
+Q235388	P136	Q37073	what kind of music is christy carlson romano
+Q1101711	P196	Q8101032	what asteroid group is 43706 iphiklos part of
+Q439095	P19	Q852729	where in england was rik mayall's place of birth?
+Q6730765	P495	Q30	which country was magic man made for
+Q83739	P162	Q317567	Who produced the ladykillers?
+Q185834	P57	Q60858	Which movie did a time to love and a time to die direct?
+Q811013	P175	Q484839	Who is the artist off the album battle for the sun
+Q573712	P19	Q90	Where was pierre samuel du pont de nemours' place of birth?
+Q1937400	P136	Q484641	What kind of music is dirty work
+Q2036082	P19	Q36036	Where was yuriy furta birthed
+Q6373446	P413	Q336286	What position does karsten smith play
+Q263314	P140	Q432	what denomination does haya rashed al-khalifa practice
+Q378754	P58	Q53011	What italian writer is credited on the church?
+Q5720	P17	Q29	which country contains valencian community
+Q103	P676	Q2318968	Who is the lyricist behind the composition supercalifragilisticexpialidocious?
+Q69609	P21	Q6581097	What gender is otto nagel
+Q1332140	P17	Q16	What country does the ellice river run through
+Q63088	P413	Q193592	what position does horst heldt play
+Q2474432	P19	Q3711	What is milan vilotić's birth place
+Q447863	P21	Q6581097	which gender does joseph satoshi fukahori belong to
+Q4094404	P27	Q36	which european nationality does henryk borowski belong to?
+Q22260787	P364	Q9610	what language was used for the golden fortress
+Q1451266	P404	Q208850	what is the gameplay mode of the sims 3: world adventures
+Q5569077	P27	Q30	What is the nationality of Glenn Robinson III?
+Q5340376	P19	Q102217	where was eduard boltrushevich born
+Q181776	P136	Q645928	What genre is the Bonnie and Clyde film?
+Q1088362	P31	Q3863	What type of space object is 20553 donaldhowk
+Q129857	P53	Q182135	What royal line does francis i of france come from?
+Q6130343	P19	Q128282	which city was james brown born
+Q23301	P172	Q50001	which type of people does roberto benigni belong to
+Q2714762	P364	Q1860	What language is the film love hurts in
+Q210535	P40	Q460946	who was the child of nefertari
+Q15143103	P19	Q60	which city was elisabeth nunziato born in?
+Q204943	P1303	Q2145031	what does brian jones play
+Q706830	P20	Q84	what city did henry gellibrand pass away in
+Q73769	P136	Q8341	what type of music does kati kovács perform
+Q282722	P264	Q2283665	Which label signed trent reznor
+Q3992887	P19	Q207223	where was tommy breen born?
+Q4354865	P27	Q30	what is howard storm's nationality
+Q4907661	P27	Q33	what country is asko sarkola from
+Q537706	P106	Q33999	What profession did madita have?
+Q22072	P1303	Q5994	what instrument does John Farnham play?
+Q165817	P272	Q192557	which production company produced the film saving private ryan?
+Q882744	P21	Q6581097	what is the gender of ekathotsarot
+Q155904	P105	Q34740	What's the taxonomic rank of aconitum
+Q957352	P40	Q545644	Who is a child of pauline vanier
+Q7152710	P509	Q181754	what is responsible for paul newlan's death
+Q7348785	P21	Q6581097	what is the gender of robert smith
+Q1143139	P178	Q928122	What company developed the game gex: enter the gecko
+Q3071080	P20	Q1486	What city did lucas demare die in
+Q679632	P175	Q45188	Who was the artist behind mylo xyloto
+Q1160530	P119	Q216344	where was the body of daniel sickles buried
+Q466196	P50	Q34981	who was the author of the end of eternity
+Q703229	P413	Q193592	what is a position played by martin wagner
+Q19601	P115	Q895151	oldham athletic a.f.c.  plays in what arena
+Q380918	P404	Q6895044	What is one of the gameplay modes in call of duty: black ops ii?
+Q597079	P136	Q846224	what type of game is blazblue: calamity trigger released in?
+Q3125063	P272	Q1530721	who was the production company for the film rip!: a remix manifesto
+Q455953	P19	Q42000	where was jocelyne lagarde born
+Q4715825	P21	Q6581097	what is aleksei kostenko's gender
+Q1747987	P59	Q9253	which constellation is hd 157753 a part of
+Q930865	P19	Q1183864	Where was george karl born?
+Q43274	P140	Q82708	what is charles, prince of wales's religion
+Q2273258	P27	Q34	Where is masse broberg from
+Q5311876	P19	Q183296	where was dudley foster born
+Q3197233	P21	Q6581097	what gender is kinya aikawa
+Q785925	P19	Q2966	Where was gerardus vossius place of birth
+Q1772650	P17	Q155	What country is pato branco in?
+Q3481761	P27	Q30	where is sheila larken from
+Q1525403	P21	Q6581097	george ardisson is what gender?
+Q331101	P19	Q18125	where was paul shipton born
+Q234458	P27	Q159	What is the nationality of irina shayk
+Q2066600	P264	Q1190562	What label is bushman associated with
+Q6177755	P27	Q30	what is jenna lee's ethnicity?
+Q160946	P162	Q2845576	who is the producer of the film paris, texas
+Q2276742	P21	Q6581097	What gender is spike (buffy the vampire slayer)?
+Q271853	P20	Q649	which city did nikolai ostrovsky die
+Q2722895	P175	Q202741	who produced the album the hunter?
+Q83653	P20	Q43100	where did jahangir die
+Q1378100	P27	Q155	what country is ruy guerra from
+Q4545156	P21	Q6581097	what biological gender is nicolas provost
+Q301791	P20	Q3143067	what city and state in america did  pete candoli pass away
+Q7817908	P27	Q408	Where is tom uren from
+Q1045100	P31	Q3863	What type of celestial object is 4733 oro
+Q1044119	P65	Q930096	where was 4974 elford discovered
+Q771295	P27	Q77	what is the nationality of enrique amorim
+Q353698	P40	Q532884	who is son of sima yi
+Q311580	P1303	Q6607	what instrument did eric johnson play?
+Q9391	P509	Q181257	what illness was suffered by ludwig wittgenstein
+Q106428	P272	Q511731	what company did produce apollo 13 (film)
+Q455689	P27	Q30	Where is constance towers from
+Q718951	P136	Q484641	what genre is bitterblue considered
+Q946457	P21	Q6581097	What is john heitinga's gender?
+Q243041	P136	Q598929	what is the artist siouxsie sioux's genre
+Q534599	P20	Q171224	Where did damon knight die?
+Q54274	P364	Q1860	what language is spoken in pirates of the caribbean 3
+Q152082	P21	Q6581097	what is the gender of ron canada?
+Q3850787	P404	Q6895044	What gameplay mode is supported by the computer videogame mashed: fully loaded
+Q111645	P19	Q1953	What is the birth place of vahan gevorgyan?
+Q3605812	P21	Q6581097	What gender is adrien robinson?
+Q1613358	P19	Q444210	where was doug west born
+Q6111803	P413	Q462471	Which position does the basketball player jack cooley play
+Q963045	P136	Q130232	what kinds of movie is bad day at black rock
+Q463184	P264	Q994175	what label is lavern baker under?
+Q191100	P364	Q1860	what is the primary language in the film  transformers 2
+Q2473495	P196	Q2179	In which region was the 12539 chaikin discovered?
+Q2312518	P364	Q652	which european language is traffic jam spoken in?
+Q6831848	P27	Q30	Which country is michael kenworthy from
+Q725965	P21	Q6581097	what gender is marek koterski
+Q6794532	P21	Q6581097	What is max alexander's gender?
+Q562127	P19	Q1754	What swedish city was gerard de geer born in?
+Q950583	P27	Q34	what is lars eriksson's nationality
+Q936037	P58	Q56093	who wrote victor victoria
+Q1781651	P175	Q2643	who recorded the album living in the material world
+Q1619100	P106	Q33999	What profession does Lucy Russell have?
+Q2004852	P136	Q485395	what type of music does  switchblade symphony create
+Q535320	P136	Q1344	What music genre does xavier montsalvatge perform?
+Q1632041	P31	Q3863	what kind of celestial object is 25669 kristinrose?
+Q560228	P20	Q2887	where did bartolomé blanche die
+Q1198532	P495	Q30	what country was the green glove filmed in?
+Q2068615	P136	Q828322	What platform was attack of the killer tomatoes released on
+Q197661	P413	Q193592	what position is pavel badea
+Q518879	P20	Q8717	Where did prince carlos of bourbon-two sicilies die
+Q250954	P162	Q3098559	Who produced beloved (film)?
+Q13476187	P27	Q30	Where is lillian evanti from
+Q1747499	P136	Q130232	what kind of film is la commare secca
+Q4446299	P162	Q311219	Who produced the film yes, madam
+Q2304429	P57	Q703492	who was the director of the film temple grandin
+Q7713819	P495	Q8646	where was the film the angry river filmed in?
+Q2144419	P20	Q1156	where did renu saluja die?
+Q4444	P495	Q30	What country was wanted released in?
+Q483718	P136	Q11365	Foo Fighters produce what genre of music?
+Q298371	P21	Q6581097	what is garrett hedlund's gender
+Q467957	P264	Q330629	which label is camélia jordana signed to
+Q312042	P19	Q2305059	Where was david dunn born
+Q2065815	P17	Q155	what country is afrânio a second level division of
+Q2477881	P27	Q219	What nationality is valeri petrov?
+Q269485	P106	Q33999	what does eva marcille do for a living
+Q313998	P136	Q157443	what film genre is the hudsucker proxy?
+Q40930	P40	Q153344	who is one of nefertiti's children
+Q938478	P31	Q3863	What celestial object is 20856 hamzabari classfied as?
+Q124008	P1303	Q5994	what is an instrument that urs bühler has played
+Q2060077	P58	Q325396	who wrote the film walk hard: the dewey cox story
+Q463883	P20	Q65	Where did frances marion die?
+Q44993	P21	Q6581097	what is max joseph von pettenkofer's gender?
+Q7300715	P175	Q142636	which female band created the album ready to run?
+Q1974278	P27	Q15180	what country is yanina zhejmo from
+Q8441466	P27	Q17	Which country does shimako iwai have nationality in
+Q14950267	P19	Q1192860	what city was joe burns (american football) born
+Q4540778	P31	Q3863	what is (10603) 1996 uf4
+Q778276	P21	Q6581097	Is su tong female or male?
+Q420822	P112	Q5297927	who is the founder of gap inc.?
+Q24057	P27	Q30	what country is dallas roberts originally from
+Q8013305	P607	Q362	Which war did William J. Obrien fight in?
+Q211222	P57	Q217324	who directed the film the young and prodigious spivet
+Q696855	P58	Q55403	who is the screenplay writer for merry christmas, mr. lawrence
+Q1321253	P19	Q133073	Where was hamish bond born?
+Q15993006	P20	Q38555	where was the death place of dan gerrity
+Q1753907	P31	Q3863	what type of object is 25049 christofnorn
+Q2292469	P21	Q6581072	what is the gender of cordelia chase
+Q1383959	P19	Q1842	Where was lars krogh gerson born?
+Q158599	P264	Q2598277	What label is hed pe signed to
+Q213999	P136	Q959790	Which netflix genre does 21 (2008 film) fall under
+Q304701	P21	Q6581097	what is the gender of bradley pierce
+Q160071	P136	Q1054574	What film genre is twilight considered to be?
+Q528159	P19	Q36091	where city in minnesota was catharine mackinnon  born
+Q7964940	P21	Q6581097	What is the gender of walter gerth?
+Q629975	P162	Q3758467	who produced the movie the tourist
+Q294449	P264	Q1041144	which label is jonathan smith signed to
+Q456017	P86	Q346285	what music is on the film amazing grace?
+Q463733	P58	Q463883	who wrote the film the champ
+Q986013	P131	Q491046	What county contains presque isle
+Q3302765	P413	Q201330	What soccer position does yusuke kawakita play
+Q902695	P19	Q49197	where was david quinn born
+Q1406718	P27	Q29	What nation is ferdinand columbus from?
+Q40040	P17	Q155	what country is the amazonas in?
+Q313372	P106	Q36834	what is francisco tárrega's profession
+Q1972743	P19	Q191106	Where was orest miller born?
+Q827162	P27	Q30	Where is berry kroeger from
+Q1259466	P136	Q200092	what kind of movie is the strangers
+Q364406	P21	Q6581097	What is kelly slater's gender.
+Q3565777	P27	Q30	is walter hampden from the united states or canada
+Q5097389	P27	Q17	what country is chikara sakaguchi from
+Q1190728	P131	Q44823	where is the las colonias department in
+Q400825	P27	Q159	what country is georgi yumatov a citizen of
+Q456041	P21	Q6581097	alexandre bilodeau is a member of which gender?
+Q864422	P495	Q16	What is the country of origin of haven
+Q953461	P31	Q3863	what is the category of 10806 mexico?
+Q168704	P19	Q48958	what city was niki de saint phalle born
+Q213697	P27	Q145	which country does richard burns hail from
+Q1142181	P179	Q7143846	what series is revenge of the pink panther from?
+Q4757514	P20	Q1204	what state did andrew johnson die
+Q3211591	P179	Q886	what series is fear of flying an episode of
+Q1656254	P57	Q4109	who directed i think i love my wife
+Q148198	P61	Q234878	Who discovered 2212 hephaistos
+Q30548	P403	Q179751	what is the mouth of hrazdan river
+Q15453534	P20	Q34006	where did monte collins die
+Q4352760	P27	Q145	What country is nigel slater from
+Q461666	P21	Q6581097	what is the gender of sean dundee
+Q747891	P20	Q1190876	where did pat roach die
+Q4251066	P27	Q30	john b. calhoun is a citizen of what country?
+Q760989	P136	Q130232	how would a person classify moscow on the hudson
+Q681007	P40	Q5539709	Who is a child of george gilbert scott
+Q176488	P162	Q1378684	who produced halloween resurrection
+Q715551	P27	Q35	What country does morten rasmussen have nationality in
+Q4820196	P136	Q83440	audrey williams performs which genre of music?
+Q3019745	P136	Q660984	What type of music is featured on trans canada highway
+Q3087907	P19	Q168376	where was luan garcia teixeira born?
+Q463567	P136	Q8341	what kind of music does amina figarova prepare
+Q1254469	P495	Q142	who is someone famous with attention deficit hyperactivity disorder
+Q347825	P27	Q30	which country is john campbell from
+Q255260	P136	Q200092	what netflix genre is a tale of two sisters?
+Q991773	P21	Q6581097	Is bruce ricker a male or female
+Q714331	P27	Q36	Where is robert gadocha from
+Q834578	P175	Q151012	who is the musician that created from genesis to revelation
+Q255786	P27	Q30	which country is gracie allen from
+Q935982	P21	Q6581097	what gender is vagif mustafazade
+Q679657	P136	Q130232	what netflix genre is bobby under
+Q525	P398	Q146249	which asteroid belt orbits the sun
+Q375845	P20	Q2807	which city was johann von vásáry born
+Q450928	P106	Q33999	what is the profession of maja ostaszewska?
+Q3679854	P27	Q30	What is the nationality of claudia lonow?
+Q1239133	P50	Q209641	Who is the author of the honourable schoolboy?
+Q943447	P364	Q150	what language is fanny in?
+Q1637267	P21	Q6581097	What is the sex of humphrey stafford, earl of stafford?
+Q568280	P31	Q3863	is 7075 sadovnichij a comet or an asteroid
+Q725507	P509	Q202837	What kind of condition did sterling holloway die from?
+Q3445813	P509	Q12152	how did roy roberts die
+Q620054	P31	Q3863	what is 6520 sugawa
+Q781634	P1303	Q6607	which instrument was played by steve earle
+Q172241	P344	Q460277	who is the cinematographer of the shawshank redemption
+Q918679	P31	Q3863	Which type of celestial object is 3916 maeva
+Q1337034	P138	Q60429	who was raman named after
+Q504657	P17	Q858	which country is idlib located in
+Q313048	P119	Q1302545	Where was bob kane buried?
+Q1437111	P19	Q3820	Which city was raymond tarabay born in
+Q59824	P20	Q60	which city did kim hunter pass away
+Q256677	P136	Q220830	what type of music does marilyn rovell perform
+Q3101880	P27	Q30	which nation state is george roussos from
+Q67643	P21	Q6581097	What is the gender of ingo steuer
+Q2080965	P276	Q796	what country has battle of zumail
+Q3624043	P264	Q645889	what label represents art of dying
+Q299736	P413	Q280658	what position does football player tomáš necid play
+Q1372222	P19	Q16552	what californian city was  michael j. mcculley born
+Q1427222	P58	Q108941	Who wrote the film postcards from the edge?
+Q1484901	P196	Q2179	what is 11017 billputnam a part of?
+Q6982479	P509	Q12152	what health problem killed navin nischol
+Q152870	P31	Q3863	what is the categorical name of 4170 semmelweis
+Q436317	P20	Q490	Where did giulio bosetti die
+Q5363104	P27	Q145	Which country does elizabeth larner have nationality in
+Q579311	P61	Q737057	who discovered (6872) 1993 cn1
+Q1289871	P27	Q30	which country is terry carter from
+Q981166	P21	Q6581097	What is the sex of james brooks (whig)?
+Q2994679	P19	Q864156	Where was saitō yoshitatsu born?
+Q909802	P58	Q1484216	Who was the author of the punisher?
+Q926285	P136	Q83440	which genre is dolly: the seeker/we used to affiliated with
+Q1356395	P58	Q376130	who wrote the screenplay for alfie
+Q11198	P17	Q225	which country does federation of bosnia and herzegovina belong to
+Q182485	P413	Q1143358	does pee wee reese play shortstop or power forward
+Q2719381	P105	Q7432	What is the classification rank of terminalia arjuna
+Q71728	P27	Q183	What european country is jan boeckhorst from?
+Q149632	P397	Q525	Which star does 2594 acamas orbit
+Q2658283	P364	Q150	In what language is the dialogue from the film Four Nights of a Dreamer?
+Q470495	P21	Q6581097	what is nesmith ankeny's gender
+Q1567731	P495	Q142	what country is the film lassie based in?
+Q127998	P19	Q188336	where was mahmoud abbas born
+Q11772710	P136	Q8261	what kind of book is mcteague
+Q3279817	P58	Q36661	Who wrote the story for a dolls house
+Q2207346	P21	Q6581097	what gender is dmitriy mamin-sibiryak
+Q1226274	P21	Q6581097	whats jacob lekgetho's biological gender
+Q432743	P1303	Q6607	what instrument is played by gavin rossdale
+Q984171	P421	Q847142	What time zone is irwindale in?
+Q206357	P115	Q1421388	where does the minnesota wild play
+Q44797	P150	Q426743	which location is the administrative child of mendoza province
+Q518379	P86	Q1665575	who did the music for duel of the titans
+Q7614435	P19	Q208948	WHere was steven adams born
+Q534818	P138	Q152788	Who was 5698 nolde named after?
+Q688502	P276	Q68283	where did the battle of morat take place
+Q126183	P495	Q30	which country released working girl
+Q4889976	P106	Q10871364	What is benny frey's profession?
+Q2837617	P136	Q1054574	what genre is all the real girls classified as
+Q11428427	P27	Q17	what nationality does  shohei tsukahara belong to
+Q8013434	P20	Q49164	Where did william james beal die?
+Q1343925	P21	Q6581097	What gender is Sholom Schwartzbard?
+Q167393	P19	Q1748	where is målkjær born?
+Q3476760	P19	Q39561	Which city was sean mcnamara born
+Q313003	P21	Q6581097	What is ludwig scotty's gender?
+Q2625129	P404	Q208850	What a gameplay mode in the amazing spider-man
+Q297562	P19	Q84	Where was leopold stokowski born?
+Q829	P17	Q30	which country is utah in
+Q3959807	P123	Q1136242	Who is the publisher of the game shrek super party
+Q726157	P20	Q90	where was jean rousseau laid to rest
+Q1248715	P106	Q33999	what is judit rezes occupation
+Q152793	P19	Q727	Where was karel appel born?
+Q471423	P162	Q365844	who produced the movie the specialist
+Q718451	P20	Q34006	where in los angeles did  henry bergman die
+Q636219	P404	Q6895044	What is a gameplay mode from the game gears of war
+Q254596	P19	Q47164	Where was dominique dunne born?
+Q849140	P57	Q489831	who directed cop out
+Q770105	P495	Q16	What is the country of origin for the tv program the adventures of sinbad?
+Q1810512	P136	Q200092	Which genre can one find swamp thing under on netflix
+Q5079870	P27	Q30	what is charles koppelmans nationality
+Q12785472	P27	Q215	where is barbara levstik from
+Q1933148	P175	Q1335689	Who is the artist of the album fight to survive?
+Q767675	P413	Q201330	What soccer position does tsukasa hosaka play?
+Q11330	P19	Q241037	Where was masato harada birthed
+Q222939	P58	Q704553	who was in charge of story on jumanji
+Q3309544	P21	Q6581097	is michel duplaix male or female?
+Q1423020	P162	Q697131	who is the producer of the movie tigerland
+Q631103	P57	Q471552	who directed mean girls
+Q2667782	P170	Q5599	who was the artist of the descent from the cross
+Q859	P20	Q844930	where did plato meet his maker
+Q153474	P196	Q2179	to which asteroid group does 4306 dunaevskij belong
+Q742136	P413	Q280658	What position did Senegalese football player ali dia play?
+Q497036	P19	Q752681	what was dean cundey's place of birth
+Q3740213	P136	Q130232	what types of movie is starkweather
+Q1998495	P19	Q1017175	where was siraj ud-daulah born?
+Q16028447	P495	Q142	what country is fermière à montfaucon from?
+Q214831	P1303	Q5994	what instrument does david archuleta play
+Q1165071	P58	Q551429	Who wrote danton (1983 film)?
+Q3047214	P21	Q6581097	what is ed wang's biological gender
+Q506175	P421	Q2086913	Which time zone is sumner county located in
+Q287774	P31	Q3863	What type of object is 3809 amici
+Q7608398	P21	Q6581072	what is stephaniesmithmusic's gender
+Q662342	P495	Q183	where is k-19: the widowmaker from?
+Q755939	P21	Q6581097	what gender is muhammad baqir majlisi
+Q16066065	P19	Q203000	where was james craig born
+Q3806352	P175	Q128799	who is the musician that created jaleo
+Q4977791	P27	Q30	what country is bruce kimmel from
+Q71685	P20	Q1748	Where did gustav friedrich hetsch die
+Q5624409	P19	Q23276	where was simon drake born
+Q171349	P106	Q82955	What was the profession of abbas i of persia
+Q2627593	P31	Q3863	What is 10825 augusthermann
+Q2106732	P27	Q35	Where is poul glargaard from?
+Q1906238	P20	Q16554	which city did mary chase pass away
+Q3849543	P21	Q6581097	what gender is mark rogers
+Q233360	P276	Q1992093	where did the second battle of corinth take place
+Q1347609	P272	Q434841	Which production company produced idiocracy
+Q1306317	P155	Q754892	what was the prequel to beethoven's 2nd
+Q276343	P86	Q268976	Who composed the music for the film the girl with the dragon tattoo?
+Q1024044	P20	Q84	where did leigh bowery kick the bucket
+Q3392009	P495	Q30	in which country was the lot in sodom filmed
+Q11648654	P21	Q6581097	What is takuji suzuki's gender?
+Q5303159	P57	Q190373	Who directed the film downhearted duckling?
+Q7785909	P58	Q2558191	Who wrote the TV series "This is not happening"?
+Q102235	P364	Q1860	What language is the film harry potter and the order of the phoenix spoken in?
+Q434718	P1040	Q95008	Who edited the film Assault on Precinct 13?
+Q232819	P136	Q1071873	what genre does koko taylor perform
+Q1252302	P19	Q18426	Where was douglas fowley born?
+Q470862	P140	Q5043	which religion does rhodri the great follow?
+Q311241	P106	Q2252262	what does bobby brown do for a living
+Q332419	P19	Q43382	Where was the place of birth of michael foot
+Q12323855	P27	Q35	Which nordic country does lars kaalund belong to?
+Q2216690	P20	Q65	what city did sam whipple die in
+Q946169	P136	Q483352	what type of music is metal church?
+Q883584	P20	Q28515	where was john riley tanner's death
+Q5273120	P106	Q33999	what is susana giménez's profession?
+Q44132	P21	Q6581097	what is stephanos dragoumis's sex
+Q336272	P264	Q4352944	what label is the artist george clinton (musician) under?
+Q1617908	P162	Q363005	Who is the producer for higher learning
+Q520082	P172	Q49085	what's lisa tucker's ethnicity
+Q995874	P136	Q1529437	what type of game is fallout tactics
+Q3847508	P19	Q1355	Where is ernest dunlop swinton from?
+Q597433	P264	Q5144791	which record label worked closely with peter tork
+Q954949	P136	Q130232	What genre of film is the three burials of melquiades estrada?
+Q969572	P19	Q960774	where was david ball born
+Q4542793	P61	Q507053	Who discovered (29156) 1989 ch?
+Q2625085	P86	Q111436	Who handled the music for five days one summer
+Q32910	P495	Q30	what country did the film domino come from
+Q967095	P65	Q191684	Where was 5596 morbidelli discovered?
+Q365359	P19	Q3070	where was mario echandi jiménez born
+Q275947	P21	Q6581072	What is the gender of mademoiselle aïssé?
+Q57570	P20	Q516462	where did hans-jürgen von arnim take his last breath
+Q69707	P21	Q6581072	is karoline jagemann male or female
+Q1203	P1303	Q5994	What instrument does john lennon play
+Q4050236	P175	Q642181	What artist has an album titled strength, power, will, passion?
+Q61978	P21	Q6581072	what is the sex of judith of schweinfurt
+Q160420	P17	Q17	which country is saga prefecture located
+Q2099297	P21	Q6581097	what gender is betico croes?
+Q314990	P21	Q6581097	What is the gender of marcel achard
+Q2575306	P136	Q11366	What genre is hanging on by a thread
+Q5393341	P20	Q84	What city did ernest jay die in?
+Q641547	P413	Q193592	Which position does kosuke nakamachi currently play?
+Q706644	P20	Q84	Which city was frederick corder in when he died
+Q2840907	P21	Q6581097	which gender is verza
+Q57531	P19	Q1726	where was the princess ludovika of bavaria born
+Q1154221	P58	Q13455488	who was the writer for the film  the promise
+Q1535956	P136	Q343568	knights of the temple: infernal crusade would best be described as this genre of video game.
+Q4363366	P364	Q7737	what language is spoken in the film pirogov
+Q5272991	P19	Q128282	where was dick haynes born
+Q2446360	P136	Q226730	What genre of film is the star boarder
+Q705714	P58	Q712675	Who wrote the story for art school confidential?
+Q1613779	P31	Q55818	What type of crater is herodotus
+Q3341159	P19	Q220	where in italy was nicoletta elmi born
+Q131642	P105	Q34740	What is the organism rank of ariocarpus
+Q111391	P17	Q30	what is the administrative division of rockwall county, texas
+Q5125741	P21	Q6581097	what is the gender of clancy cooper
+Q467078	P57	Q3038028	Who directed the film infamous (film)
+Q2138074	P19	Q78	where was regine lutz born
+Q3209079	P495	Q30	What country did skylark originate in?
+Q1718298	P495	Q145	Where was the snapper shot
+Q4541898	P61	Q507053	Who discovered (17490) 1991 uc3?
+Q367319	P20	Q87	where did ibn jubayr die?
+Q70781	P106	Q2962070	What is albrecht becker's profession?
+Q333430	P21	Q6581097	is  charles wilson (texas politician) male or female
+Q496381	P131	Q156628	What county is waterloo in
+Q716424	P20	Q488004	Where did noble willingham die?
+Q426828	P57	Q711022	who was the director of donnie darko
+Q164757	P140	Q9089	which religion does john mclaughlin practice?
+Q2357611	P27	Q145	what is martin edwards' country of nationality
+Q5108396	P136	Q45981	What genre of music does chris walker make
+Q553617	P20	Q60	which city did leo castelli die
+Q156230	P196	Q2179	what asteroid group is 656 beagle a member of?
+Q333142	P21	Q6581097	is mykola shmatko male or female
+Q613342	P27	Q36	what country is tadeusz hołówko from
+Q783258	P86	Q365199	who wrote the music for gun crazy
+Q8962247	P21	Q6581097	American actor francis de sales is of what gender?
+Q5998863	P364	Q1860	what language is spoken in illegal?
+Q2494726	P27	Q212	from which country is vasyl sachko from
+Q1356487	P1303	Q5994	what instrument does leon fleisher play
+Q272353	P21	Q6581072	What gender of diann roffe is
+Q1399643	P27	Q30	What is Stephen Hopkins nationality?
+Q315249	P20	Q2044	what city in italy did arnolfo di cambio die
+Q1171544	P58	Q463502	Who wrote the story for rogue trader (film)
+Q371855	P136	Q189045	is urban hymns britpop or j-pop
+Q490029	P17	Q30	where is marion county located
+Q1891647	P86	Q731371	Who did the music for s.o.s. titanic
+Q22513	P20	Q956	Where did zhu de die?
+Q766135	P136	Q1054574	what kind of film is gas food lodging
+Q717188	P364	Q9610	what language is used in the film the home and the world
+Q2883729	P27	Q28	what is deborah wells's nationality
+Q965179	P21	Q6581097	What is the sex of tommy johnson
+Q45974	P105	Q7432	what is a white-bellied sea eagle's organism classification
+Q76688	P21	Q6581097	is hans-hermann hoppe male or female
+Q55263	P404	Q208850	which gameplay mode does the videogame star wars: shadows of the empire have
+Q43921	P86	Q180861	who is the composer of party sequence
+Q657981	P495	Q30	where was crying freeman done
+Q4197943	P495	Q159	what country is on the film idiot: vol. 1
+Q2164616	P495	Q16	what country does the show  tripping the rift originate from
+Q361291	P19	Q3579	Where was saif al-arab gaddafi born?
+Q61370	P17	Q30	what country is newton county in
+Q1141872	P136	Q11366	What sort of rock does smile empty soul perform
+Q733722	P272	Q466459	What production company worked on the film love & other drugs
+Q3309727	P21	Q6581097	what gender is michel gauthier?
+Q470153	P21	Q6581097	which gender is  reginald veljohnson
+Q1362004	P21	Q6581097	which gender is peter schoomaker
+Q3600147	P31	Q3863	what kind of celestial object is 91907 shiho?
+Q483145	P21	Q6581097	What is the gender of luis figo?
+Q69557	P21	Q6581072	is caroline bauer a man or a woman
+Q1502275	P27	Q17	Which country does genjirō kaneko have nationality in
+Q130615	P495	Q408	where did h2o: just add water come from
+Q2126205	P19	Q3001	in what city of Suriname was chinyere pigot born
+Q1818548	P20	Q34006	where did leo f. forbstein die
+Q295717	P27	Q30	what nationality is vernon l. smith?
+Q852001	P495	Q668	what country produced the film bunty aur babli
+Q708372	P21	Q6581097	What is Arthur Alkin's gender?
+Q706760	P1303	Q128309	Which instrument does clive bunker play?
+Q130314	P413	Q193592	what position does choe myong-ho play in football
+Q262102	P27	Q30	What nationality is debra hill?
+Q3290402	P53	Q34821	what family was patrick bouvier kennedy a member of
+Q1189306	P21	Q6581097	What is trevor wright's gender?
+Q2500267	P123	Q2264873	who published spyro: season of ice
+Q11998	P136	Q211756	what genre of music is kylie minogue known for
+Q448481	P20	Q34006	Where did max baer (boxer) die in LA
+Q3062861	P20	Q985592	what city and state did ezra stone pass away in
+Q541079	P58	Q3178961	Who was jumper (film) written by?
+Q3061215	P495	Q38	where was the film eva first released in
+Q6968702	P19	Q49231	Where was the place of birth of nate parker
+Q1725997	P17	Q145	which country is arun in
+Q980860	P19	Q43382	Where was victor canning born?
+Q19788328	P27	Q38	what country is the italian stefano sardo from
+Q256037	P57	Q657354	who directed stage beauty
+Q26265	P86	Q528663	Who did the music for cool world?
+Q338218	P19	Q994	Where is the place of birth of nodar gabunia
+Q17427	P112	Q378036	Who founded communist party of china?
+Q2607713	P272	Q159846	which company produced make way for tomorrow?
+Q187651	P136	Q157443	What genre is strange wilderness in on netflix?
+Q711383	P20	Q204720	Where did hugh despenser the younger perish
+Q3942185	P106	Q33999	What is the profession of ruby rose?
+Q2464759	P364	Q1860	in what language is treasure island filmed
+Q1335059	P31	Q523	What is mu ursae majoris an example of
+Q2455358	P57	Q51123	who directed the film the avenging conscience?
+Q117139	P264	Q843402	what label does wiz khalifa record under
+Q929918	P20	Q1345	what city did isaac lea pass away in
+Q140008	P397	Q525	What does 1496 turku orbit?
+Q375310	P20	Q5092	where did giovanni arrighi fall into the big sleep
+Q720681	P27	Q145	where is malcolm muggeridge's nationality of origin
+Q1040161	P264	Q557632	which label do the ames bros belong to
+Q442729	P27	Q414	is josé figueroa alcorta from argentina or costa rica
+Q3312381	P136	Q868217	What kind of game is microsoft international soccer 2000
+Q15739824	P27	Q30	What is the nationality of c.j. perry?
+Q3388893	P364	Q1860	What is the language spoken in triple dog
+Q7614330	P413	Q25075	steve wilson played what american football position
+Q1001195	P19	Q60	Where was Buddy Giovinazzo born?
+Q1898456	P403	Q104437	Where is the mouth of the  pelly river?
+Q260119	P40	Q294425	name eudokia ingerina's child
+Q152612	P65	Q191684	where was the discovery of 4064 marjorie made?
+Q238016	P172	Q49085	What is the ethnicity of michelle perry?
+Q3030909	P20	Q138518	where did hugh mercer's life end?
+Q74994	P20	Q1781	what city did joachim rumohr pass away
+Q503318	P19	Q90	where was jean-baptiste boussingault's first breath taken
+Q928977	P50	Q380265	Who's the author of coin locker babies
+Q4810225	P19	Q949779	which country is riley shy originally from
+Q711505	P413	Q308879	which basketball position did billy cunningham play
+Q1558	P17	Q30	which country is kansas based in
+Q370422	P19	Q649	Where was grigory rapota born
+Q757094	P175	Q80304	who was the artist of the album  untouchables
+Q4203994	P364	Q9176	what language is spoken in the art of seduction
+Q3076144	P86	Q931909	who wrote the music for the movie women in trouble
+Q2624560	P31	Q3863	what type of object is the 12820 robinwilliams
+Q294832	P20	Q2966	what was alexander john cuza's place of death
+Q1469774	P57	Q73136	Who directed the film titled on the beach
+Q1476285	P131	Q784	what country is saint john parish located in?
+Q35725	P86	Q584221	Who did the music for the trial?
+Q1343925	P20	Q5465	Where did sholom schwartzbard die
+Q2391894	P179	Q1046812	what game series is tails' skypatrol a part of
+Q660034	P404	Q208850	is carmageddon ii: carpocalypse now single-player or multi-player
+Q578958	P196	Q2179	which asterioid group is 5314 wilkickia a member of?
+Q6849258	P21	Q6581097	What gender is Mike White?
+Q222720	P495	Q145	What country was the film fargo created in?
+Q455199	P20	Q64	giuseppe sarti died in what city?
+Q1625566	P364	Q1860	what is the language of the premature burial
+Q637306	P27	Q145	what is peter robinson's european nationality?
+Q2290882	P123	Q863618	what company published the game black & white 2
+Q712418	P196	Q2179	which group contains (7884) 1993 hh7
+Q24204	P106	Q19204627	What profession did Josh Gordon have?
+Q458245	P20	Q2887	ignacy domeyko  passed away where
+Q680173	P27	Q39	what nationality is  giles tschudi
+Q943877	P196	Q2179	Where is 8783 gopasyuk located in space?
+Q7229186	P364	Q1860	What language was the film pope john paul ii shot in?
+Q35064	P27	Q145	What is agatha christie's nationality
+Q2166261	P176	Q82610	which company built the uss los angeles (ssn-688)?
+Q1150828	P27	Q155	which country is cícero santos from
+Q36393	P50	Q5816	who is the author of quotations from chairman mao tse-tung
+Q2756439	P21	Q6581072	what gender is fictional character kissy suzuki
+Q33977	P19	Q12191	Where was jules verne born
+Q1208	P17	Q183	What is brandenburg a first level division of
+Q4719500	P106	Q169470	what is alexander macfarlane's profession?
+Q1765286	P136	Q188473	Is operation thunderbolt an action movie or documentary
+Q1332636	P31	Q3863	8266 bertelli is what type of celestial object?
+Q1626868	P136	Q842256	What netflix genre is honeydripper
+Q604449	P364	Q1860	What language is spoken in identity
+Q744138	P17	Q783	what country is the lempira department located in
+Q287615	P175	Q11998	Who is the artist on the album kylie fever 2002 live in manchester
+Q6437812	P19	Q28848	Where was kristin vigard born
+Q790207	P495	Q30	Where was avanti! filmed?
+Q102155	P19	Q1295	where was kristin meyer born
+Q3416101	P27	Q16	which nationality does rachel hayward belong to
+Q7154348	P21	Q6581097	What is the sex of paul whitsun-jones?
+Q257968	P19	Q126084	what israeli city is joan of acre from
+Q795522	P607	Q8676	What war did john w. geary participate in
+Q556819	P31	Q3863	what type of object is 6304 josephus flavius?
+Q266881	P27	Q30	which country is beatrice rosen from
+Q172286	P21	Q6581097	what is cecil green's gender?
+Q110879	P21	Q6581097	what gender is gus grissom
+Q908841	P21	Q6581097	is brian griffin male or female
+Q5606941	P106	Q3282637	what does gregory goodman do for a living?
+Q201873	P86	Q254	who was the composer of the marriage of figaro
+Q1557763	P20	Q34217	Where was alister hardy deceased?
+Q7292110	P106	Q10871364	what is the profession of randy brown
+Q501003	P138	Q48314	which battle was the waterloo bridge named after
+Q4227	P119	Q1358639	where is james coburn buried
+Q709823	P65	Q930096	where was the discovery of (9528) 1981 eh24 made at?
+Q1025916	P86	Q19848	who composed the song paparazzi (lady gaga song)
+Q137042	P19	Q29364	where was nat king cole from
+Q1468980	P58	Q464193	who wrote the film eclipse?
+Q4430	P57	Q51583	who directed cleopatra?
+Q6522877	P21	Q6581097	What is lennox robinson 's gender?
+Q179374	P21	Q6581097	What is the gender of robert owen
+Q236047	P19	Q465710	Where was hadise born
+Q158163	P31	Q3863	what category does the celestial object 943 begonia belong to
+Q15070044	P53	Q643049	what family is malia ann obama a part of
+Q2910011	P136	Q23916	what kind of video game is bone: the great cow race
+Q7385525	P264	Q1365614	what label signed ryujin kiyoshi
+Q318766	P58	Q771104	who was the writer for the film the terminal
+Q273126	P21	Q6581072	is anna dorothea therbusch a male or female
+Q76645	P19	Q1794	What is the birth place of jo weil
+Q313131	P413	Q336286	What position does mauricio pellegrino play?
+Q153815	P53	Q81589	what family house does princess margaret, countess of snowdon belong to
+Q16155099	P495	Q30	which country was the movie batman: assault on arkham produced
+Q323793	P413	Q193592	which position did andriy bohdanov play
+Q383700	P136	Q846224	What type of computer videogame is marvel vs. capcom 2: new age of heroes?
+Q4039001	P162	Q217298	Who helped produce the film strangers with candy?
+Q846320	P17	Q953	north-western province is in what country?
+Q1631150	P162	Q52997	advise & consent is a film produced by whom?
+Q710723	P31	Q3863	what kind of object is (5834) 1992 sz14
+Q1997051	P57	Q522057	who directed a fistful of fingers
+Q37097	P20	Q16869	where in turkey did manuel ii palaiologos' place of death?
+Q1751029	P21	Q6581097	what is ali g's gender?
+Q441502	P21	Q6581097	is philippe jaroussky male or female
+Q70620	P21	Q6581097	What is the gender of markus bott
+Q3378789	P19	Q462799	Where was phil harvey birthed
+Q390949	P19	Q179406	where in england was angela c. smith born?
+Q4139384	P136	Q472055	what genre is the computer videogame i of the dragon
+Q939325	P495	Q145	what country is ella enchanted from
+Q3349039	P27	Q142	What country is oceane from?
+Q2471197	P138	Q312288	who is the hale telescope named after?
+Q1800173	P404	Q6895044	what gameplay mode does secret of mana have
+Q150343	P31	Q3863	in what category is 2912 lapalma
+Q5981912	P21	Q6581097	what is ian johnson's gender?
+Q51123	P21	Q6581097	What is d. w. griffith's gender?
+Q5083036	P27	Q16	What is charles trudeau's nationality
+Q3391599	P57	Q314223	who directed the movie planet ocean
+Q1364691	P57	Q106685	Who directed without anesthesia?
+Q109981	P17	Q30	What is the second level division of douglas county?
+Q92614	P737	Q333402	Who was douglas engelbart influenced by?
+Q402938	P138	Q272774	Who was hancock county named after
+Q2363504	P50	Q315069	who was the author of the startide rising novel
+Q5003533	P19	Q12439	what city was buzz kilman given birth in
+Q1262731	P19	Q90	where was louis philippe, comte de ségur born
+Q1736789	P19	Q336431	where was katsuhito asano born
+Q285549	P140	Q1841	what religion does bianca jagger practice
+Q51564	P40	Q3302192	who is john landis's song's name
+Q706518	P136	Q83440	what type of country is b. j. thomas from
+Q7600963	P178	Q238132	Who is the developer of the videogame star trek: conquest?
+Q2335241	P162	Q441578	What female producer is responsible for the decline of western civilization?
+Q1615684	P112	Q6524689	who is the founder of the hess corporation?
+Q809332	P20	Q40921	Where did bartholomew ulufaalu die?
+Q450690	P21	Q6581072	what gender is luisa valenzuela?
+Q5107036	P21	Q6581097	what gender is chris jones
+Q2059382	P21	Q6581097	what is paul edwin roth's gender
+Q266396	P413	Q193592	which football position does josé joão pereira play
+Q512902	P21	Q6581097	if william bates is a man, what's his sex
+Q817356	P19	Q220	what is benito stefanelli's place of birth in europe?
+Q272433	P21	Q6581072	what gender is krystyna janda
+Q1779139	P1040	Q967544	what actor did adapt the super troopers film
+Q3159945	P19	Q16869	where was jacques rémy born
+Q2719307	P123	Q188273	who was the publisher of silent hunter 4: wolves of the pacific
+Q4965430	P19	Q128114	what city in Westchester County is brian sweeney from
+Q1333178	P21	Q6581097	What is neil sloane's gender?
+Q1660478	P136	Q130232	what type of movie is main street
+Q510641	P495	Q30	which country released battle of neretva
+Q463846	P21	Q6581097	how does pierre charron identify
+Q4237536	P413	Q201330	what position does sergey kramarenko play in football
+Q206327	P106	Q39631	What profession was Bernard Kouchner in?
+Q1027212	P495	Q30	where was revolution released
+Q84711	P20	Q1741	Where did alfred uhl die
+Q135645	P20	Q64	What city did walther rathenau die in?
+Q2347009	P106	Q578109	what is steve harvey's profession
+Q719058	P20	Q189074	where in new york city was billybangartist's place of death?
+Q2460274	P58	Q434342	who wrote any number can play
+Q937460	P57	Q44414	who is the director of the canada on strike episode
+Q1138070	P84	Q1172126	who was the architect of coventry cathedral
+Q262317	P264	Q16985955	which label does tinariwen release music under
+Q2622313	P57	Q561459	who directed the movie volga-volga
+Q5648323	P413	Q1048902	Former baseball player hank fischer played which position?
+Q434290	P19	Q727	which netherlands city was andries bicker born in?
+Q63895	P20	Q60	where in new york did paul oskar kristeller die?
+Q3806192	P413	Q336286	what position does jaime villegas play
+Q2704502	P162	Q55432	Who produced the film ex machina
+Q228122	P105	Q7432	what is the rank of the organism classification sium sisarum?
+Q842032	P27	Q17	What is shiho kawaragi's nationality
+Q615874	P27	Q145	what is roddy maude-roxby's country of nationality?
+Q3101663	P136	Q131272	which genre does george jackson perform
+Q11529897	P19	Q34600	Where was Takeshi Matsuyama born?
+Q978770	P344	Q1312577	Who did the cinematography of the stranger
+Q6010467	P495	Q16	The film in praise of older women was based in which country?
+Q688332	P20	Q1741	what city did leon biliński ie in
+Q444253	P21	Q6581097	is benjamin watson a man or a woman
+Q886784	P27	Q30	what is david hall's nationality
+Q16927807	P19	Q60	what city was michael shure born in
+Q1130193	P123	Q339228	who is the publisher for the game south park: chef's luv shack
+Q237090	P20	Q90	Where did madame de la fayette die?
+Q1284215	P21	Q6581097	What is the sex of edgar wilson
+Q6429913	P27	Q159	what is konstantin dzutsev's nationality?
+Q2695156	P170	Q464282	who created batman
+Q3597084	P31	Q3863	how is the 11425 wearydunlop categorized
+Q862524	P404	Q6895044	Which gameplay mode is used for harry potter and the half-blood prince?
+Q1129452	P136	Q343568	What is the video game genre of god of war iii
+Q467631	P136	Q860626	What genre is the film "Americas Sweethearts"?
+Q938858	P272	Q5448886	what is the production company for the film on the road
+Q1168586	P136	Q130232	what kind of film is the tomb of ligeia
+Q468700	P136	Q1054574	what kind of film is the fly
+Q280154	P495	Q30	what is the tv program all that's country of origin
+Q184386	P136	Q719927	yes (band)  is a performer of what musical genre
+Q44412	P737	Q9312	Which philosopher influenced hans christian Ørsted?
+Q823107	P131	Q502414	what county is bernardsville, new jersey in
+Q263938	P136	Q727803	What kind of music is rock bottom?
+Q1633373	P21	Q6581097	what is the sex of hubert renfro knickerbocker?
+Q740939	P20	Q2050326	What is the place of death of lane smith?
+Q1338008	P136	Q130232	what genre of film is emma?
+Q2061259	P495	Q30	what country did slc punk! originate from
+Q964634	P136	Q2297927	What sort of movie is the wrecking crew
+Q921597	P196	Q2179	what belt does  2295 matusovskij belong to
+Q1153562	P136	Q206159	what subset of rock does erik brann play
+Q645003	P178	Q14428	who developed phoenix wright: ace attorney: justice for all
+Q333834	P27	Q145	which country is jim griffiths from
+Q2527253	P136	Q1650296	what types of music is the maze
+Q443597	P413	Q193592	which football position does tiko as?
+Q706723	P19	Q215755	where was james soong born
+Q439245	P27	Q30	Which nationality is allen newell
+Q262303	P196	Q2179	Which type of asteroid group is 13268 trevorcorbin present in
+Q549602	P136	Q11399	which music genre is slowhand
+Q1340067	P196	Q2179	8397 chiakitanaka is a part of what asteroid group?
+Q3290120	P19	Q220	which city was marco marinangeli born in
+Q131074	P162	Q808917	who produced the lord of the rings: the return of the king
+Q700726	P495	Q142	in which country was the night of the generals filmed
+Q503264	P264	Q1392321	What label signed the artist gregg allman
+Q537565	P19	Q64	what city was kurt stöpel born in
+Q573770	P162	Q95039	who produced stay hungry
+Q823637	P27	Q183	which country is bernd hollerbach from
+Q950865	P57	Q262735	who directed doctor dolittle
+Q7332041	P27	Q30	what country is rickybellakaslick from
+Q610738	P19	Q495	what italian city was the place of birth of prince maurice of savoy
+Q67043	P27	Q183	What country was leopold i, prince of lippe from?
+Q16193823	P19	Q49244	where in california was jeff robinson born
+Q1750090	P17	Q155	what is the second level division of envira?
+Q16121961	P27	Q30	what is ben moses's nationality?
+Q462447	P1040	Q1715774	who was lethal weapon edited by
+Q7310145	P20	Q65	Where did reiko sato die?
+Q1968723	P737	Q192592	who was jacques drèze influenced by
+Q705472	P21	Q6581097	what is jim gilmore's gender
+Q239228	P31	Q3863	What kind of celestial object is 4625 shchedrin?
+Q584500	P509	Q12192	what was the cause of ludovic kennedy's death
+Q600705	P413	Q193592	What position does yevgeni kharlachyov play
+Q241712	P21	Q6581072	What's pang qing's gender?
+Q136442	P31	Q3863	what is  1145 robelmonte category
+Q2627790	P196	Q2179	where is 10812 grötlingbo located
+Q986196	P131	Q494541	which county locates orange city, florida
+Q57527	P19	Q1718	where was eleonor magdalene of neuburg born
+Q872246	P20	Q128499	which city did anna dostoyevskaya die
+Q171565	P20	Q90	Where in france did yves giraud-cabantous die
+Q3293921	P21	Q6581097	what gender could marjan mozetich be
+Q82544	P171	Q385932	what is the redback spider classified as?
+Q1348016	P58	Q1339491	Who authored punishment park
+Q371403	P27	Q30	what north american country was  kyle gass born into
+Q829	P17	Q30	what country is utah in
+Q501	P737	Q7198	Who influenced charles baudelaire
+Q454493	P27	Q1037	What nation is hamad ndikumana from?
+Q6301167	P19	Q52535	where was juan yustrich born
+Q1046716	P31	Q3863	What kind of celestial object is 3786 yamada?
+Q1870830	P27	Q40	which nationality is lothar geitler
+Q433929	P21	Q6581072	what is the gender of tammy lauren
+Q375550	P21	Q6581097	which gender does henrik sedin identify as
+Q936037	P495	Q145	which country released victor victoria
+Q1066134	P136	Q343568	what kind of game is prince of persia 3d
+Q1794394	P17	Q408	What country is lake alexandrina (south australia) located in?
+Q756238	P272	Q885885	What production company produced the flm robots
+Q5987215	P21	Q6581072	What is ida waterman's gender
+Q140864	P65	Q191684	What was the discovery site of 15663 periphas?
+Q25011	P19	Q38453	which state was charles bolden born
+Q261909	P106	Q81096	what does meton of athens do for a living
+Q3966013	P344	Q287778	Who is the cinematographer that worked on the film sparkle
+Q950141	P20	Q84	what was the place of death for john ogdon
+Q611388	P17	Q419	which country is huallaga river in
+Q4214157	P27	Q399	Where is ruben karapetyan from
+Q7970614	P175	Q375792	Which artist released the self-titled album warren zevon?
+Q381777	P136	Q11366	What kind of music does andrew wood perform?
+Q701896	P57	Q176126	who directed the film twisted
+Q7315661	P138	Q49284	What is resnik named after
+Q5597693	P21	Q6581097	What is the sex of ulf björlin
+Q545507	P27	Q30	what country is camille winbush from
+Q6386282	P106	Q4610556	what profession does kelly salmon have
+Q465776	P170	Q720893	Who created fear itself
+Q7216	P495	Q30	Where was pirates ii: stagnettis revenge filmed at?
+Q702762	P413	Q336286	as a defensive player, which position does christian eichner play
+Q2588758	P178	Q991149	who developed the computer game sword of mana
+Q3118802	P27	Q30	what is the nationality of  robert sapolsky
+Q1066098	P344	Q4175343	Who was the cinematographer for jackass 3d?
+Q5890742	P27	Q668	what nationality is homi adajania
+Q16217465	P27	Q16	Where was Max McCabe-Lokos born?
+Q2469151	P21	Q6581097	what is herman of alaska's gender?
+Q1639734	P171	Q310438	What is the higher classification of tepary bean?
+Q4978345	P19	Q49156	where was bruce tarr born in
+Q2525295	P1303	Q46185	What instrument does bruce thomas play?
+Q3288289	P106	Q183945	What is d-nice's profession?
+Q364781	P20	Q49267	Where was lee hazlewood when he died
+Q1022488	P17	Q145	Where is brighton and hove located?
+Q86210	P27	Q183	Which country is andreas wisniewski from?
+Q2266283	P495	Q30	what country is the angel wore red filmed in?
+Q2280952	P136	Q1050023	What is the genre of the computer videogame mafia wars
+Q41315	P58	Q1774177	who wrote under the tuscan sun?
+Q1214555	P57	Q737693	who directed the lovers on the bridge?
+Q78486	P19	Q156080	where was johann palisa born?
+Q460151	P509	Q12152	what deadly disease killed fred m. vinson
+Q6223118	P19	Q2572461	what is the name of the city where  john brewster, jr. was born
+Q1332469	P495	Q30	Which nation filmed spread
+Q188648	P264	Q387539	what is the label that raven-symoné is under
+Q1194440	P364	Q7737	what is a language featured on the hound of the baskervilles
+Q3087848	P162	Q1707966	Who produced the love nest?
+Q162335	P21	Q6581072	what is red sonja's gender
+Q4543172	P31	Q3863	Which category of celestial object is (35317) 1997 aq23
+Q1197735	P50	Q16867	who wrote the fall of the house of usher
+Q3633946	P21	Q6581097	what gender group does nagesh kukunoor belong to
+Q1620831	P86	Q487355	the film battleground featured music by what artist?
+Q2324566	P20	Q1726	in what european city di geoff bent die
+Q2058810	P19	Q2887	What is the birth place of gerson acevedo?
+Q5186176	P413	Q336286	what position in soccer does cristian dancia play
+Q465179	P509	Q12152	how did marion zimmer bradley die
+Q324431	P136	Q8341	what type of music is adam taubitz known for?
+Q15069959	P21	Q6581072	What was the gender of micheline bona?
+Q195535	P27	Q142	what nationality is jean-marc leclercq
+Q219714	P115	Q1052370	what is the philadelphia eagles's home stadium called
+Q3044	P21	Q6581097	what gender is charlemagne
+Q718581	P21	Q6581097	What is daron acemoglu's gender?
+Q58586	P20	Q2833	Where did edmund husserl die?
+Q1476000	P364	Q1860	what language is i love you to death?
+Q878398	P20	Q498066	what county did isaac shelby die in
+Q778205	P144	Q7548175	What did snow angels (film) adapt from?
+Q982109	P172	Q173491	what is m. s. swaminathan's ethnicity
+Q4101775	P495	Q30	What country was searching for debra winger filmed in
+Q275553	P272	Q511731	What company produced the film changeling?
+Q1190057	P20	Q131600	where did denys de la patellière die
+Q172214	P19	Q68136	Which city and country was toni branca born in
+Q2600504	P19	Q3108251	where was hugh maclennan born
+Q6010787	P27	Q29	What is the nationality of mercedes alonso
+Q3857462	P413	Q526960	what position does mike tolbert play
+Q269669	P19	Q49143	where was illeana douglas born?
+Q841781	P58	Q1278407	Who wrote the script for gaslight
+Q233412	P27	Q30	what country gives anna maria perez de taglé her nationality
+Q3098571	P19	Q1774629	Where was gary holt born?
+Q245187	P86	Q364881	who provided the music for the film 12 rounds (film)?
+Q77044	P27	Q183	What nationality is chris kaman
+Q780197	P58	Q1699413	Who wrote the film christopher columbus: the discovery
+Q28740	P413	Q280658	What position does footballer ian porterfield play?
+Q444369	P21	Q6581072	what is the sex of katie jarvis
+Q1002251	P136	Q200092	what genre is the film bug (2006 film)
+Q766612	P404	Q6895044	what is the gameplayer mode for europa universalis: rome?
+Q847940	P57	Q41351	who was the director for the beaver?
+Q6488593	P19	Q739452	where was lara spencer born
+Q117238	P21	Q6581072	what was charlotte schwab's gender?
+Q1500287	P57	Q450720	who directed the film killing zoe
+Q59736	P119	Q288130	where is ignaz semmelweis buried
+Q2566305	P57	Q2721648	jenin, jenin is a film that was directed by whom?
+Q2487202	P21	Q6581097	what is the sex of the character joe chill?
+Q1584933	P403	Q1441345	What is the mouth of the roanoke river
+Q3132212	P21	Q6581097	What is oliver jackson-cohen's gender?
+Q5363352	P19	Q30	Where was elizabeth pisani born?
+Q1128520	P495	Q30	What country filmed the black orchid
+Q174992	P495	Q30	was 12:01 released in the us or somewhere else
+Q898237	P27	Q155	what is the nationality of sissi?
+Q2701528	P31	Q523	What type of celestial body is tau centauri
+Q163742	P413	Q193592	which position did alberto fouilloux play
+Q2792014	P19	Q427792	where was jamie robinson born?
+Q1210807	P136	Q2143665	what type of film is the journey of natty gann
+Q5397539	P170	Q51057	who created matthew cable
+Q675353	P86	Q2599	who composed run for your life
+Q293149	P136	Q83440	What sort of music does holly williams play
+Q1741746	P495	Q778	What country was the "Children of God" filmed in?
+Q217246	P364	Q1860	which language is the suite life of zack and cody in
+Q34060	P607	Q49077	Which conflict was yitzhak rabin part of?
+Q356782	P19	Q11751	where was koji kondo born
+Q1300810	P123	Q149947	which company published mortal kombat: special forces?
+Q535360	P40	Q4100648	who were the children of george herbert walker?
+Q1207463	P136	Q2143665	What is the genre of the film hoot (film)
+Q4888080	P21	Q6581097	what is jaime camino's sex?
+Q438459	P19	Q60	what city is bill drayton from
+Q9037987	P21	Q6581097	what is daisaku shinohara's gender?
+Q180704	P170	Q311607	who created iron man
+Q235168	P140	Q1841	state  giovanna of italy religion
+Q869993	P58	Q255921	who wrote the story for a goofy movie
+Q3290309	P172	Q402913	what is the ethnicity of konnie huq?
+Q7146481	P27	Q30	what is patrick farrelly's nationality?
+Q7812944	P27	Q252	what country gives nationality to toeti heraty
+Q469184	P27	Q30	which country is linda scott from
+Q929220	P495	Q142	what country is césar from
+Q1189520	P196	Q2179	What asteroid group is 8986 kineyayasuyo a part of?
+Q1215455	P495	Q27	what country does the playboys take place?
+Q4542795	P65	Q191684	where was (29170) 1990 oa3 discovered?
+Q59249	P136	Q130232	What kind of netlfix film is hachi: a dog's tale?
+Q63169	P20	Q2090	where did leonardo conti die
+Q993444	P131	Q498024	What county is rochester hills, michigan in?
+Q739580	P404	Q208850	what gameplay modes are available on assassin's creed: bloodlines
+Q2536351	P123	Q122741	who is the publisher for the game michael jackson's moonwalker?
+Q991010	P131	Q488517	Which county is merritt island located in
+Q727486	P20	Q15682	where did blas valera die
+Q580561	P31	Q3863	is 25430 ericlarson an asteroid or a planet
+Q2657890	P58	Q724796	who wrote the film jenifer
+Q1537132	P272	Q3739165	which company produced peter pan
+Q1130403	P17	Q36	What country does wieprz run through
+Q580703	P58	Q6833625	who wrote them, robot
+Q7738870	P136	Q182015	what kind of book is the hard way?
+Q711097	P31	Q3863	what category is (8107) 1995 br4 associated with
+Q4979343	P21	Q6581072	is francesca smith male or female
+Q1062256	P404	Q208850	what type of game is colin mcrae rally
+Q4911269	P106	Q19204627	What is Bill Wallace's profession?
+Q3275502	P404	Q6895044	is madden nfl 2003 a multiplayer or single player game
+Q12002	P20	Q2841	In which Colombian city did alberto lleras camargo die
+Q3074308	P20	Q1015874	Where did jason robards die?
+Q456847	P17	Q836	In what country is shan state
+Q107761	P58	Q25161	Who wrote you only live twice
+Q486588	P272	Q192557	which company produced shrek the third?
+Q4975058	P264	Q4043197	Which label is julie roberts apart of
+Q329132	P136	Q8341	what type of music does steve bailey make
+Q2370158	P20	Q8652	where is florida did suzanne keller die?
+Q1368789	P20	Q208609	Where did johannes pääsuke pass away?
+Q132537	P509	Q852423	How did robert oppenheimer die
+Q734398	P136	Q850412	what genre of music does older (album) belong to?
+Q526518	P737	Q315132	Who was mihail sadoveanu influenced by
+Q1130690	P21	Q6581072	what is caiera's gender?
+Q6792827	P106	Q33999	What is maurice argent's profession?
+Q12136882	P495	Q142	what country produced the film two orphan vampires
+Q16193921	P27	Q30	Which nation is darren walker originally from?
+Q366478	P27	Q30	is samuel roy mckelvie a citizen of the united states or australia
+Q269210	P19	Q637246	where was  nautica thorn born
+Q1814925	P136	Q842256	What genre is the film were the world mine?
+Q5240208	P21	Q6581097	What is the sex of david swift?
+Q6242198	P27	Q34	what is the nationality of toni wilkens?
+Q545186	P106	Q855091	what does dave edmunds do
+Q481259	P27	Q30	Which country does daniel ridgway knight have nationality in
+Q357041	P27	Q30	which country is charles w. morris from
+Q229264	P20	Q90	where in france did georges-louis leclerc, comte de buffon die?
+Q6774486	P27	Q30	Which nation is martha mattox from?
+Q1933869	P136	Q465978	What sort of music was recorded for godspeed on the devil's thunder
+Q220376	P58	Q4500	who wrote the hancock (film)
+Q1144055	P162	Q484779	who produced district 13: ultimatum
+Q1962851	P495	Q38	Where was the passengers shot
+Q494085	P86	Q975609	who is credited for the music in mash (film)
+Q885677	P58	Q3257343	Who wrote the story of the film blue crush
+Q754745	P86	Q471656	who did compose the music of irréversible
+Q7251	P140	Q7066	What type of religion does alan turing believe in
+Q207846	P171	Q690813	what is the higher classification of the organism king eider?
+Q175097	P136	Q11366	Which genre of music is created by 3 doors down
+Q230222	P106	Q10833314	What is mara santangelo's job?
+Q2723541	P20	Q649	Where did mikhail vladimirsky die?
+Q513982	P138	Q878516	what is wise county, virginia named after
+Q13552171	P57	Q693016	who was the director of  the tv series episode sleepless
+Q584128	P21	Q6581097	What gender is f. paul wilson
+Q1457450	P136	Q744038	What netflix genre is the film the john cena experience
+Q1824955	P27	Q16	what north american country is lili francks from
+Q1195271	P65	Q191684	What was the discovery site for 8980 heliaca
+Q2608996	P21	Q6581072	What gender is saeko shimazu
+Q347678	P19	Q1741	where is adalbert franz seligmann born
+Q2266283	P364	Q1860	what language was the angel wore red in?
+Q1173086	P136	Q203720	what type of music does dave alvin play
+Q2614390	P31	Q3863	what type of celestial object is 20879 chengyuhsuan
+Q3607332	P27	Q17	what is akihiko ishizumi's nationality?
+Q1095411	P20	Q372454	where did clarence emir allen die
+Q3731502	P27	Q30	where is eric louzil from
+Q56149	P138	Q23	What was washington county named after
+Q3044376	P27	Q30	Which country is cydney bernard from?
+Q5972292	P27	Q30	which country is john mahaffey from
+Q1400	P17	Q30	where is pennsylvania situated
+Q451216	P19	Q23661	Where was jessica napier born?
+Q3520173	P136	Q645928	what is the genre of the film the butler
+Q6115807	P27	Q30	Which country does jack williams claim nationality from?
+Q15527274	P21	Q6581097	john binder identifies with what gender?
+Q69597	P20	Q159	Where did werner mummert die
+Q202600	P20	Q3708823	where in new york did richard kiley died in?
+Q708689	P27	Q15180	Where is vladimir vasyutin originally from?
+Q7317647	P509	Q12192	what was the cause of death of reuven frank
+Q421707	P509	Q181257	What caused the death of jerry orbach?
+Q187351	P123	Q1229035	who published split second: velocity
+Q1753433	P495	Q30	what country was the patriot filmed in
+Q13422452	P404	Q208850	what is the gameplay mode of the elder scrolls v: skyrim – hearthfire?
+Q367715	P175	Q299138	who is the artist of man on the moon: the end of day
+Q1331748	P196	Q2179	where in the solar system is (8228) 1996 yb2
+Q3815292	P19	Q202828	where was basketball player kim hughes born?
+Q916349	P17	Q155	what country does the guaporé river run through?
+Q4090181	P19	Q172	where was milan božić born
+Q332169	P27	Q30	which nationalisty is troy brown
+Q216924	P20	Q172	where was the death place of glenn gould
+Q5077792	P21	Q6581097	What is charles frank's gender
+Q463343	P19	Q502710	where was bernhard stavenhagen born
+Q3956295	P19	Q490	what is the place of birth of sergio spina
+Q1641156	P136	Q645928	what type of film is george wallace
+Q5338522	P19	Q3410	Where was edith craig born?
+Q2368037	P162	Q51492	who produced the film  broadway bill
+Q219526	P131	Q61148	which county is fayetteville located in?
+Q745000	P136	Q206159	What genre of music is off the album smiley smile
+Q679657	P1040	Q542167	who edited the film bobby?
+Q1788050	P17	Q155	what is urucuia a second level division of
+Q3759415	P27	Q30	What was the nationality of gene banks
+Q382270	P21	Q6581097	What gender is panajot pano
+Q777476	P20	Q163749	where did joey maxim spend his last days
+Q299727	P27	Q45	what is rolando (portuguese footballer)'s nationality?
+Q1315100	P196	Q2179	What asteroid group is 8087 kazutaka a member of?
+Q302762	P264	Q4883239	what label is barry manilow with
+Q785224	P364	Q1860	Which language is the tv show the lost room in
+Q2082933	P21	Q6581097	Mexican soccer player juan carlos medina is what gender?
+Q1940229	P136	Q170435	what type of music is distant earth
+Q7301680	P19	Q43668	Where did rebecca broussard's mother give birth to her?
+Q212589	P20	Q1218	Which city did yehuda ashlag die in
+Q55607	P178	Q122741	who is the developer of bonanza bros.?
+Q146407	P196	Q2179	What type of asteroid group is 1962 dunant located in
+Q1192546	P196	Q2179	what asteroid group is 9508 titurel a part of
+Q37084	P19	Q16869	what was john vi kantakouzenos's birthplace
+Q664400	P61	Q457312	what Japanese scientist discovered 7797 morita
+Q5162041	P27	Q408	What country is connor pain from?
+Q1131279	P58	Q192217	which actor wrote and starred in the hot chick
+Q1760399	P264	Q1139341	What record label is sugar on?
+Q229513	P20	Q913346	where did sarah vaughan die
+Q2322285	P413	Q308879	What basketball position does martin müürsepp play
+Q151216	P31	Q3863	what kind of object is 3287 olmstead?
+Q240575	P40	Q7244790	who is the daughter of queen noor of jordan
+Q1075769	P509	Q175111	how did seisaku nakamura die
+Q446518	P172	Q49085	What is the ethnicity of heather hunter?
+Q658694	P21	Q6581072	is sibylle canonica a male of a female
+Q292274	P19	Q124230	Where was princess theodora of greece and denmark born?
+Q175600	P58	Q294583	who wrote don't come knocking
+Q286028	P27	Q142	what country is louis Émile javal citizen of
+Q6780114	P21	Q6581072	What is mary losseff's gender
+Q596358	P495	Q30	which country released shaft in africa
+Q919145	P20	Q2462645	where did verney lovett cameron die
+Q1051256	P112	Q5334704	Who was a founder of the cato institute
+Q87546	P21	Q6581097	Which gender is carl balhaus?
+Q566994	P413	Q193592	which position does albert brülls play
+Q1194810	P58	Q5237900	what is a film written by daddy day camp
+Q963142	P264	Q557632	under which label does ernest tubb work
+Q151599	P58	Q19504	who wrote metropolis (film)
+Q2550119	P495	Q30	What is the country of origin of the film mockingbird don't sing?
+Q261700	P86	Q95008	who wrote the music for ghosts of mars
+Q4913467	P19	Q1018565	where was the place of birth of billy williams
+Q5394329	P27	Q30	Where is ernie alexander from?
+Q288040	P136	Q37073	what kind of music does tonina torrielli perform
+Q5502982	P175	Q216288	which country artist recorded fresh horses
+Q1187585	P175	Q1163207	which artist released odessey and oracle?
+Q3976065	P264	Q1063242	what label is chrisadamsstringdriventhing under
+Q400266	P40	Q6039896	who is the child of ahinoam
+Q1349722	P27	Q142	what country is jacques lisfranc de st. martin originally from?
+Q924848	P31	Q3863	what category does the celestial object 10188 yasuoyoneda belong to
+Q116995	P27	Q39	what is the nationality of charles dutoit?
+Q1043614	P272	Q2820005	which company produced taare zameen par
+Q640432	P138	Q78503	after what physicist was the 9253 oberth asteroid named
+Q2980608	P21	Q6581097	What is sven-olof walldoff's language?
+Q3051285	P21	Q6581072	what gender is elizabeth clarke wolstenholme elmy
+Q17124728	P495	Q183	which country is mein kampf from
+Q690316	P31	Q3863	what is 6806 kaufmann categorized as?
+Q128538	P140	Q5043	What is the religion of luke the evangelist?
+Q152795	P196	Q2179	what is 4151 alanhale a member of?
+Q3443417	P19	Q204561	which city in california was darlene vogel born in
+Q252472	P403	Q201679	which body of water is the mouth of oti river?
+Q2360218	P178	Q14428	Who developed mega man 6
+Q5545621	P119	Q216344	Where is george w. getty buried
+Q756137	P131	Q109150	which county is atlanta in
+Q431252	P1040	Q273379	Who edited the film jackie brown (film)
+Q708888	P364	Q727694	What language is comrades: almost a love story in?
+Q378089	P31	Q3863	what is the category of 6488 drebach?
+Q299842	P19	Q3141	Where was antonia kidman born
+Q59566	P344	Q2149612	Who was the cinematographer for the film the upside of anger?
+Q1080008	P196	Q2179	where is 8994 kashkashian found
+Q271263	P27	Q30	What is vanessa del rio's country of origin?
+Q76382	P1142	Q517372	what is the ideology of sinn fein
+Q59062	P19	Q1085	What is vladimír franz's place of birth?
+Q303530	P20	Q1085	where did jan zrzavý die
+Q382420	P27	Q30	what country is damon wayans from?
+Q329424	P21	Q6581097	what is the sex of edgar valter?
+Q506400	P1431	Q966535	who executively produced red dawn
+Q313828	P172	Q167420	Which ethnicity is ivan meštrović?
+Q848825	P272	Q141336	what is the production company responsible for autumn marathon
+Q75828	P27	Q183	what is the nationality of heinrich wilhelm olbers
+Q447236	P172	Q7325	what is stanley fischer's ethnicity?
+Q1376082	P106	Q188094	What is michio morishima's profession?
+Q380261	P27	Q30	what country is little walter from
+Q1215511	P364	Q7737	what was the language used for the film donkeys hide
+Q950141	P1303	Q5994	what instruments can john ogdon play?
+Q3218816	P404	Q208850	what type of gameplay mode is the game zombie zombie?
+Q2127756	P50	Q49074	who wrote the title 2 b r 0 2 b
+Q495223	P138	Q273546	Who was hamlin county named for?
+Q7612815	P27	Q30	What is the nationality of steve henderson?
+Q2143368	P264	Q778673	what artist is with the walkabouts?
+Q1417638	P171	Q42046	what is higher in classification than hyaena (genus)?
+Q446531	P27	Q15180	where is aleksandr ivanchenkov from
+Q76244	P264	Q158886	which music label signed the artist epica
+Q5228596	P20	Q1393019	where did dave cox die
+Q5024429	P21	Q6581097	What is calvin jones's gender
+Q1586143	P27	Q408	what is harrie massey's nationality?
+Q1400403	P57	Q55415	who directed the film tiefland
+Q264810	P196	Q2179	What is 8816 gamow a member of
+Q162202	P136	Q45981	what kind of music does nicki minaj sing
+Q2564351	P21	Q6581097	What gender is Jack McFarland?
+Q1493994	P27	Q45	which country is garcia de orta from
+Q155585	P140	Q35032	what religion does maria alexandrovna follow
+Q531801	P172	Q49085	Which ethnicity is aaron hall (singer)?
+Q1144211	P58	Q3953024	Who wrote thin ice?
+Q6205186	P136	Q83440	what genre of music does joan kennedy make
+Q2101171	P27	Q38	what is the nationality of  poldo bendandi
+Q1759086	P136	Q546359	What type of music does the dells make?
+Q3048074	P20	Q1384	where in the united states did edmund bailey o'callaghan die?
+Q2742505	P123	Q869104	who published chuck rock ii: son of chuck
+Q6353	P21	Q6581097	What gender is Gerardus Mercator?
+Q202041	P264	Q165745	which record label is jamiroquai signed to
+Q5569186	P27	Q145	What is glenn wilson's nationality
+Q499767	P136	Q846662	what type of show is jeopardy
+Q5336219	P21	Q6581097	what is eddie lawrence's gender?
+Q667799	P57	Q1372139	who directed tenacious d in the pick of destiny
+Q508112	P57	Q934087	who directed the film i saw what you did?
+Q204552	P138	Q131691	who is  mount wellington (tasmania) named after
+Q532564	P61	Q231618	who discovered 2932 kempchinsky?
+Q1393337	P57	Q862316	who is the director for a charlie brown christmas
+Q2447932	P57	Q365616	who directed the film cows
+Q552770	P21	Q6581097	which gender does oliver stanley murs identify as
+Q495564	P17	Q30	what country is ottawa county in
+Q3238952	P19	Q36405	which city was john souttar born
+Q623518	P495	Q183	what country was running scared filmed in
+Q167340	P21	Q6581097	what is jean-jacques challet-venel's sex?
+Q50003	P27	Q172579	Where is alberto sordi from
+Q3629480	P19	Q987	Where was arun jaitley born?
+Q694695	P27	Q145	What is john mcdonnell's nationality?
+Q166928	P27	Q30	what country does chris cannon declare nationality
+Q1744	P264	Q165711	whats madonna's record label
+Q6733875	P19	Q1156	What was the place of birth of mahesh thakur
+Q115256	P17	Q865	what country does  taoyuan county serve
+Q190135	P136	Q132311	What kind of movie is the little mermaid?
+Q180125	P136	Q1054574	What type of film is step up?
+Q582275	P65	Q930096	What was the discovery site of 3000 leonardo
+Q3772414	P407	Q652	what language is spoken in gloria
+Q141701	P31	Q3863	what kind of celestial object is 1631 kopff
+Q2508044	P413	Q280658	what is gabriel Álvez's position
+Q55532	P136	Q1044478	what genre is the videogame 1942
+Q20795339	P136	Q130232	what genre is the film buddhas little finger
+Q493807	P86	Q269244	who wrote the music for angel heart
+Q7817184	P413	Q1050571	Which position did tom patton used to play?
+Q511864	P19	Q65	Which city was alexandra cassavetes born in
+Q85850	P21	Q6581097	is eugen steinach male or female
+Q13942157	P19	Q1345	where was paul jenkins born
+Q1328	P20	Q2887	where did manuel montt pass away
+Q1970161	P495	Q30	what country released a movie called four's a crowd
+Q180706	P1040	Q3179985	who edited rescue dawn
+Q2019145	P40	Q312967	What is the name of a child of guru tegh bahadur
+Q606273	P1303	Q8355	what instrument did carlo farina play
+Q561666	P509	Q181754	what was william windom's cause of death
+Q1003262	P136	Q183504	What genre of music does the band foxboro hot tubs make
+Q213846	P20	Q499278	charles william, duke of saxe-meiningen died where?
+Q1071877	P19	Q845857	where is akinori iwamura from
+Q705216	P162	Q61347	Who produced the movie house of the dead
+Q15527026	P21	Q6581097	What is john elliott's gender?
+Q316165	P19	Q1085	what is the place of birth of jan Švankmajer?
+Q495376	P17	Q30	what country holds  humboldt county
+Q321055	P20	Q209176	Where did charles merivale die
+Q2105	P40	Q2977194	What is the name of jacques chirac child
+Q7714106	P136	Q11366	Which genre is the album the aquabats! vs. the floating eye of death! from?
+Q924322	P413	Q193592	Which football position does jacob lensky play
+Q190978	P115	Q1049601	What is northern ireland national football team's stadium?
+Q1129443	P112	Q458702	who is the founder of democratic convergence of catalonia
+Q728692	P676	Q319693	who wrote the lyrics for you'll never walk alone
+Q148717	P196	Q8101032	Which asteroid group is 23355 elephenor a member of
+Q461349	P21	Q6581097	which gender group does oscar kreuzer affiliate with
+Q5239502	P27	Q30	what is david saunders's country of nationality?
+Q664728	P413	Q336286	what position does sergei karimov play in soccer?
+Q188205	P607	Q543028	what's the name of a battle that george armstrong custer participated in
+Q229197	P19	Q100	where was  lisa edelstein born
+Q1367647	P1040	Q976609	Who edited the film titled spanglish (film)
+Q3160961	P21	Q6581097	what gender does james burke identify as?
+Q267366	P196	Q2179	What asteroid group is 6247 amanogawa a member of
+Q270800	P21	Q6581097	What is the gender of gaston bachelard
+Q271217	P106	Q4610556	What is shauna grant's profession?
+Q1415322	P86	Q187844	Who was the composer for loca?
+Q846088	P86	Q1382830	Who did the music for the film i know who killed me?
+Q5957657	P136	Q868217	What is the genre of the videogame hyper v-ball
+Q316724	P413	Q336286	which position does séamus coleman play
+Q543403	P86	Q537386	who is the American composer of the dead silence film
+Q913662	P136	Q10922	what subset of punk music do the distillers write
+Q925421	P86	Q964311	who composed music for seed of chucky?
+Q1139454	P136	Q628165	what category of film is the straight story
+Q1071001	P404	Q208850	what gameplay mode does civilization iv: colonization offer
+Q1071402	P57	Q51114	Who directed "Cheyenne Autumn"?
+Q2960962	P27	Q30	Which nation is charlotte caffey from?
+Q697407	P136	Q2321734	What genre does the television program hawaii five-o belong to
+Q794217	P27	Q155	what is aymoré moreira's nationality
+Q114152	P27	Q183	what is christopher buchholz's nationality?
+Q1091168	P495	Q408	Which country is the film showtime from
+Q151792	P58	Q126098	WHo wrote the science of sleep
+Q209045	P136	Q860750	what types of game is insane
+Q192747	P27	Q145	what is the nationality of shaun wright-phillips?
+Q854435	P196	Q2179	what kind of celestial body is 2174 asmodeus
+Q465676	P20	Q493378	where did esther rolle die?
+Q3234160	P495	Q30	What is the country of origin for the bad girls club
+Q5733455	P20	Q60	Where in the United States did herbert adams die
+Q4151791	P106	Q33999	What is inna gulaya's profession
+Q7331770	P19	Q23169	Where was rick stein born?
+Q16186534	P413	Q1142885	What position does Jerry Turner play?
+Q2977831	P21	Q6581097	What is ben zyskowicz's gender
+Q7287710	P27	Q1042	what is the nationality of ralph jean-louis
+Q76437	P20	Q59977	what was karl dönitz's place of death
+Q259077	P40	Q660630	what is the name of katherine swynford's son
+Q472313	P495	Q30	which country is the interpreter from
+Q6349053	P20	Q48359	where did kaju sugiura die
+Q6551778	P27	Q145	What is linda lusardi's nationality
+Q313460	P20	Q1449	which city did jacobus de voragine die
+Q1557461	P57	Q1373377	Who directed the film kishen kanhaiya
+Q433128	P19	Q1570484	what city was edward s. curtis born in
+Q2745595	P162	Q6378110	who was the producer for the film  dead leaves
+Q6210656	P21	Q6581097	What is joe kennedy's gender?
+Q882739	P17	Q1049	which county contains blue nile
+Q153058	P196	Q2179	where is 4228 nemiro located
+Q1139698	P495	Q142	what country is house of tolerance from
+Q719033	P19	Q421913	Where was albert hull born?
+Q4980200	P413	Q1048902	what position does bryan kelly play in baseball
+Q126149	P86	Q337206	who composed the song the way we were?
+Q1777864	P1303	Q5994	which musical instrument is played by sebastienfansite
+Q313775	P175	Q124147	who made moment of glory
+Q1453221	P27	Q183	what is sören link's nationality?
+Q1486459	P21	Q6581097	what is the gender of salvatore bruno?
+Q3840465	P27	Q38	what is luisa rossi's nationality
+Q1423640	P1029	Q539358	which astronaut was in the space mission soyuz tma-1
+Q915447	P21	Q6581072	What gender is Vesta Williams?
+Q1647246	P20	Q21	which country did bob sherman die in
+Q1470523	P136	Q859369	Which genre of film is rock star (film)?
+Q701257	P19	Q44059	where was osvaldo golijov born?
+Q1022488	P17	Q145	which european country is brighton and hove in
+Q44564	P17	Q30	what country is charleston in?
+Q1197566	P136	Q828322	what type of game is lode runner
+Q315310	P710	Q161885	what kingdom was involved in battle of restigouche
+Q138624	P31	Q3863	What type of celestial object is 1389 onnie
+Q197234	P20	Q956	where in china did zhang juzheng die
+Q1325028	P404	Q6895044	what gameplay modes are available for elasto mania
+Q3015535	P86	Q78704	Who put together the music for the movie dans les rues
+Q445696	P19	Q1729	where was johann christian kittel born
+Q737889	P106	Q193391	what is ion dragoumis known for
+Q40096	P40	Q7885297	Who is the oldest son of will smith?
+Q2543799	P20	Q65	What is the name of the city where walter bullock died?
+Q1943149	P175	Q216936	which artist released the saga continues
+Q661202	P57	Q55282	Who directed the cook, the thief, his wife & her lover?
+Q23438	P17	Q874	what country is  ashgabat from
+Q507845	P136	Q1102161	Which genre of music does goldie record?
+Q195303	P272	Q467348	what is production company of the film barfly?
+Q947941	P19	Q134672	Where was matthew locke born?
+Q1090911	P1029	Q948673	Who was an astronaut on sts-111
+Q434776	P27	Q30	what country is lourdes benedicto from
+Q1066992	P61	Q231618	who discovered 11836 eileen
+Q5393341	P27	Q145	What is ernest jay's nationality?
+Q4879282	P57	Q31225	who is bedlam directed by
+Q4194128	P21	Q6581097	what is the sex of victor zotov
+Q628297	P17	Q928	bago, negros occidental is an administrative division in which country?
+Q230497	P106	Q1250916	what is tariq ibn ziyad's profession
+Q231397	P413	Q336286	what is the position of football player zvjezdan cvetković
+Q711268	P65	Q191684	Where was (8495) 1990 qv1 discovered
+Q1077374	P495	Q30	Where was son of frankenstein filmed?
+Q5068119	P19	Q3630	which was chairul tanjung born
+Q985419	P65	Q459352	where was 7343 ockeghem discovered
+Q1046486	P31	Q3863	what is 3891 werner
+Q357291	P20	Q2807	which country did alfredo kraus die in
+Q919192	P20	Q34006	where in california did  leo g. carroll die
+Q1242222	P495	Q30	What country is don's plum from
+Q1567731	P495	Q145	what country is lassie from
+Q1018174	P264	Q193023	what label are the butthole surfers signed to
+Q783484	P413	Q193592	What position does václav němeček play?
+Q32734	P136	Q188473	What type of film is cold sweat considered
+Q231113	P19	Q1009648	what type of disaster was the san juanico disaster?
+Q1670423	P19	Q64	where was alfred müller born
+Q6390767	P27	Q30	What nationality is Kenneth Utt?
+Q1141946	P178	Q14428	Who developed the game final fight
+Q191956	P20	Q17686	which italian city did majorian die in
+Q245172	P1040	Q692550	Who edited the film prince of persia: the sands of time?
+Q1183241	P364	Q1860	what is the language spoken in the ex?
+Q343215	P27	Q17	Where is mimei ogawa from?
+Q1193098	P57	Q270097	Who directed thief
+Q173893	P20	Q2333774	where did john wycliffe die?
+Q90898	P21	Q6581097	Which gender is emil bessels
+Q47136	P17	Q928	which country is laguna de bay in
+Q2306411	P20	Q65	Where did hillevi rombin die
+Q356397	P106	Q214917	What is israel horovitz's profession
+Q5040368	P1303	Q6607	what is an instrument played by carl jackson
+Q1511	P40	Q5922802	whats the name of  richard wagners child
+Q429557	P58	Q721578	who wrote the film gia
+Q241134	P21	Q6581097	what is pavel argeyev's gender
+Q4931072	P136	Q7749	what kind of music is on bo diddley?
+Q3623196	P27	Q219	what is anton strashimirov's country of nationality?
+Q309783	P106	Q3665646	who is blake griffin
+Q2598568	P676	Q19848	Who wrote the lyrics for government hooker?
+Q1399804	P175	Q192114	what artist created sarabande
+Q233326	P21	Q6581072	Is ranavalona iii a man or a woman
+Q1144624	P136	Q157443	what genre is family ties?
+Q322656	P21	Q6581097	what is the gender of james l. conway
+Q1077218	P59	Q8844	what constellation is hd 102117 a part of?
+Q1109596	P136	Q83440	What genre of music does the artist collin raye produce?
+Q744332	P21	Q6581097	Name a male.
+Q53116	P40	Q53114	who is the child of morphia of melitene
+Q1058702	P57	Q263324	Who directed the invisible mouse
+Q1043802	P27	Q38	what is carmine coppola's nationality?
+Q67365	P20	Q111205	where did frederick louis of württemberg-winnental die
+Q7803798	P27	Q30	What nation is timlanders from?
+Q238212	P27	Q20	what is the nationality of guri schanke?
+Q127897	P344	Q963628	who did cinematography for jersey girl
+Q28214	P364	Q1860	Which language is the killing featured in
+Q312967	P40	Q7399623	who is guru gobind singh's child?
+Q2352658	P607	Q6683	which war did darius n. couch play a role in
+Q579004	P149	Q750752	what architectural style is used in ely cathedral
+Q359052	P21	Q6581097	Is sergio llull a man or woman?
+Q41076	P172	Q7919819	Which ethnicity is mariah carey?
+Q354501	P57	Q103949	who is the director for go west?
+Q1059416	P272	Q806252	what company produced beyond outrage
+Q7238341	P376	Q405	Where is the extraterrestrial prandtl located
+Q2023844	P27	Q213	Which country was ondřej soukup born in
+Q1163207	P264	Q183387	What label signed the band the zombies
+Q316179	P27	Q30	which nation was moses malone born into
+Q58433	P421	Q25989	What time zone is alife, campania a part of?
+Q3280697	P57	Q7331376	who is the male director of the film brown sugar?
+Q23572	P144	Q45875	What is the show game of thrones adapted from
+Q151414	P140	Q682443	what is the religion of george marshall?
+Q1241447	P57	Q1607373	Who directed the film parinda
+Q4965591	P19	Q30	Where was brian wayne peterson born?
+Q122232	P136	Q105527	what type of music does ginger baker play
+Q4766879	P106	Q33999	What is the profession of anna brewster?
+Q1748282	P19	Q49218	where is norman kerry's place of birth?
+Q1511	P40	Q5922802	who is a child of richard wagner
+Q2311323	P178	Q959329	who created smugglers run
+Q349548	P140	Q22679	what religion does rainn wilson practice?
+Q1480361	P65	Q191684	where was the discovery of (12971) 4054 t-3 made?
+Q1754139	P264	Q3001888	What record label is jussi sydänmaa a part of
+Q152663	P31	Q3863	410 chloris is classified as what type of celestial body?
+Q2086836	P136	Q217191	Which type of music does astudio create
+Q832190	P162	Q354010	who was the producer of the film jay and silent bob strike back
+Q3530637	P27	Q668	What is anu hassan's nationality?
+Q6474003	P106	Q36180	what does laini taylor do for a living
+Q83630	P136	Q130232	what genre on netflix is my life without me
+Q1027212	P86	Q450620	what was the music in the film revolution
+Q791573	P364	Q1860	What language was i hate valentines day filmed in>
+Q3201642	P58	Q345104	who wrote the story for the sea hawk
+Q551165	P27	Q16	to what nation does john j. kavelaars belong
+Q987113	P131	Q110495	what county is ham lake found in
+Q517764	P21	Q6581097	what sex is rob pike
+Q44097	P413	Q280658	what position does football player marco borriello play
+Q665519	P196	Q2179	where in space is 4741 leskov located
+Q1866844	P403	Q847785	what river does the llano river flow from
+Q329798	P27	Q145	what nationality is tom courtenay from
+Q511224	P495	Q183	What is the country of origin of derrick?
+Q157207	P31	Q3863	what is 8096 emilezola
+Q3013022	P19	Q340	where was dan bigras born
+Q714	P21	Q6581097	What is stevie wonder's gender?
+Q249288	P136	Q157443	which genre on netflix is the movie three amigos under
+Q2058071	P58	Q369424	who was the writer of the film shakes the clown
+Q17125184	P272	Q434841	What production company worked on strange triangle
+Q11758	P40	Q13007	who is the child of l. l. zamenhof
+Q494594	P58	Q489445	who was the writer of d-war
+Q380515	P413	Q462471	What position does willis reed play?
+Q1147417	P19	Q220	where in italy was simonetta stefanelli's birth place?
+Q2424566	P495	Q145	Where was taggart filmed
+Q965149	P344	Q498696	Who was the cinematographer for the film huckleberry finn (1974 film)?
+Q11377308	P27	Q17	what country gives takahiro imanami his or her nationality
+Q6250566	P27	Q30	What is john noble barlow's country of origin?
+Q315861	P20	Q90	where did michel adanson's life end
+Q4146432	P106	Q81096	which stem profession is boris gostev in?
+Q4199553	P19	Q887	where was vladimir ilyin born
+Q318220	P172	Q1140588	What is the ethnicity of abe vigoda
+Q3185990	P19	Q806551	what city was josh magennis born in
+Q4982910	P175	Q712353	What band produce the album buck owens
+Q13786	P17	Q928	Which country is cebu in
+Q612271	P495	Q38	what country is fantômas se déchaîne filmed in?
+Q6227523	P172	Q42406	what is john craven's etnicity
+Q153995	P31	Q3863	What kind of celestial object is 4413 mycerinos
+Q350829	P20	Q270	where did adam schaff die?
+Q43576	P171	Q228283	What is the higher classification of the wild cat?
+Q213897	P20	Q64	in what german city did ludwig fischer die
+Q208269	P344	Q439911	Who is credited as the cinematographer for eternal sunshine of the spotless mind
+Q1205030	P495	Q17	what country was hanamaru kindergarten released in
+Q1302327	P21	Q6581097	What is fernando lopez's gender?
+Q264891	P1303	Q5994	Which instrument does andrea corr play?
+Q515273	P264	Q1465200	what label is katatonia signed with
+Q3176299	P19	Q1647	which city was kolinda grabar-kitarović born
+Q5373655	P175	Q122003	what was the musician on the album emociones
+Q4933783	P21	Q6581097	what is the gender of bob richardson?
+Q1635199	P1040	Q1687643	who was the editor for serving sara?
+Q723279	P19	Q335322	where was jean marc mormeck born
+Q1365463	P21	Q6581097	which gender is gustaf molander affiliated with
+Q15452671	P20	Q84	where did frank cellier die
+Q217533	P170	Q1339641	Who created the joker
+Q1523648	P58	Q251638	Who wrote straight time?
+Q513674	P21	Q6581097	What is the sex of matthew breeze?
+Q694909	P20	Q1718	where did erich juskowiak die?
+Q2395150	P53	Q65968	Who is the family of archduchess maria theresa of austria?
+Q380494	P20	Q320514	charles demuth died where?
+Q6229780	P413	Q336286	what position does john doolan play
+Q536508	P40	Q457306	Who was a child of evelyn ward
+Q2651925	P106	Q33999	whats xavier gélin profession
+Q23707679	P58	Q215478	who wrote the film voyage of time?
+Q1185052	P421	Q941023	What time zone is kingston in?
+Q199461	P40	Q61054	who are the children of sargon of akkad
+Q2457820	P27	Q736	what is the nationality of joffre guerrón?
+Q3268367	P27	Q30	what is wally wingert's country of nationality?
+Q1466657	P272	Q434841	what organization produced 9 to 5
+Q161443	P19	Q220	where was pope siricius born
+Q4775653	P170	Q51057	who created the fictional character anton arcane
+Q364121	P21	Q6581097	what is the biological gender of jean absil?
+Q1641812	P676	Q712592	who composed boulevard of broken dreams
+Q191023	P40	Q2181856	who is dylan thomas's child
+Q805827	P27	Q34	What is the nationality of baltzar von platen?
+Q695501	P106	Q36834	what is the occupation of hans krása
+Q1331932	P17	Q786	Where is peravia province?
+Q152388	P106	Q2306091	what does theodor w. adorno do as a profession
+Q359873	P27	Q30	where is andy milder from?
+Q239773	P136	Q11366	What genre is the album garbage
+Q706586	P136	Q188473	what kinds of movie is the cassandra crossing
+Q629294	P57	Q314301	who directed the film john and mary
+Q383469	P105	Q34740	What rank of organism classification is aphelocoma
+Q1973544	P106	Q82955	what is leonid nevzlins profession
+Q193695	P495	Q30	Which country did the wizard of oz (1939 film) originate in?
+Q1765863	P21	Q6581097	What is william mcneill's gender
+Q1382876	P27	Q30	Where is jonathan caouette from?
+Q48814	P421	Q25989	Which time zone is strumica located in
+Q1235376	P20	Q216	where did rolandas pavilionis become deceased
+Q2196619	P495	Q159	in which country was the cargo 200 produce
+Q158707	P509	Q47912	What is Pat Nixon's cause of death?
+Q1631423	P57	Q95133	who directed the big knife
+Q732999	P65	Q191684	Where did they discover 8970 islandica?
+Q182788	P140	Q75809	what religion does newt gingrich practice
+Q385742	P21	Q6581097	What is sergei yuran's gender?
+Q35555	P17	Q142	What is the wallis and futuna a division of
+Q8456	P31	Q159821	which olympic held 1984 summer olympics
+Q10261631	P19	Q83189	what city was cristiano araújo born in
+Q438453	P413	Q193592	Which position in football is played by bernhard cullmann
+Q1989578	P21	Q6581097	what is nigel levine's gender?
+Q632566	P84	Q134165	who was the architect that designed the edifício copan
+Q707645	P138	Q33923	what is the st. peter's church named for
+Q6408987	P413	Q336286	The football player kim ju-young plays what position?
+Q66398	P20	Q586	where was eduard schonfeld's place of death?
+Q303977	P57	Q888178	who directed let's go to prison
+Q856968	P138	Q1048	which leader was the forum of caesar named after
+Q463302	P106	Q36180	what is joanna baillie's occupation
+Q1856418	P58	Q260969	who is the writer of rififi
+Q991515	P421	Q3134980	What time zone is canmore in
+Q85855	P27	Q183	What nationality is otto behaghel
+Q312581	P140	Q1841	what religion does charles edward stuart practice
+Q3499243	P27	Q30	which country does steven kaplan identify with
+Q327032	P27	Q145	which european country is beverley cross from
+Q1141746	P495	Q30	which country filmed analyze this
+Q443783	P19	Q5694972	where was richard hooker born
+Q371078	P21	Q6581072	what is the gender of elisabeth pinajeff
+Q45839	P1040	Q1970454	who edited memoirs of a geisha (film)
+Q1043210	P136	Q213121	What is the genre of music of the album the platinum collection?
+Q673902	P57	Q946039	who directed the movie jeepers creepers (2001 film)
+Q265252	P136	Q484344	what type of music is buckethead?
+Q2704217	P86	Q367032	what music is used in secrets
+Q670305	P495	Q38	where is the film reality from?
+Q334147	P19	Q220	which famous city is julius evola from
+Q2534502	P27	Q30	What is the nationality of thomas hill (painter)?
+Q785430	P170	Q1544996	who created young justice
+Q164963	P162	Q4465	who produced the lord of the rings: the two towers?
+Q918502	P264	Q183387	what music company is bruce hornsby with?
+Q353369	P19	Q84	what was john mitchell kemble's place of birth
+Q7614170	P19	Q776662	where was steve tully born
+Q1351392	P19	Q72	Where was eric kress born?
+Q1838622	P495	Q27	what country created the film nothing personal
+Q54317	P123	Q1501379	who published the videogame star wars?
+Q719483	P21	Q6581097	Is the gender of gérard cooreman male or female?
+Q519555	P27	Q145	what country gives eros vlahos nationality
+Q395494	P20	Q159288	where did john ireland die?
+Q741572	P106	Q33999	What is steve james's profession?
+Q76727	P21	Q6581097	what is the biological gender of ernst jünger
+Q4021857	P19	Q37951	Where was eir aoi born?
+Q1444046	P136	Q157443	What genre is bubble boy?
+Q503318	P19	Q90	Which city in France was jean-baptiste boussingault born
+Q214831	P140	Q42504	what belief does david archuleta practice
+Q7093535	P50	Q229480	Who authored one of ours?
+Q7149687	P21	Q6581097	What is the sex of paul calvert?
+Q608304	P19	Q3054408	dwayne roloson was born here.
+Q2551479	P1303	Q6607	does carlos alomar play guitar or drums
+Q1360272	P19	Q541590	Where was john lloyd born
+Q6526228	P19	Q1486	where was leonel kaplan born?
+Q252835	P21	Q6581097	What is teh gender of eriks Ādamsons?
+Q377725	P21	Q6581097	what is the gender of peter berngardovich struve?
+Q2440503	P27	Q30	what is the nationality of pauline bush
+Q7373094	P20	Q862679	Where did roy m. davenport die?
+Q1460197	P21	Q6581097	what is howard komives's gender
+Q113052	P344	Q585668	who was the cinematographer for elizabethtown (film)
+Q431252	P162	Q514913	who produced jackie brown (film)
+Q2837766	P19	Q1930	Where was allan rock born
+Q755105	P105	Q7432	what is largemouth bass
+Q563261	P27	Q40	what is max merkel's nationality?
+Q989495	P136	Q484344	what genre is empire considered
+Q102316	P27	Q183	what country is paul gratzik from
+Q708694	P413	Q336286	which football position is gregg berhalter charged of
+Q180852	P21	Q6581072	is zhang ziyi female or male
+Q582715	P31	Q3863	what celestial object is 2974 holden
+Q458750	P27	Q30	what nationality is lucille clifton?
