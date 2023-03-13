@@ -554,7 +554,7 @@ def main():
         accelerator.init_trackers("summarization_no_trainer", experiment_config)
 
     # Metric
-
+    metric = load_metric("rouge")
     # Train!
     total_batch_size = args.per_device_train_batch_size * accelerator.num_processes * args.gradient_accumulation_steps
 

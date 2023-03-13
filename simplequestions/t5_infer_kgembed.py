@@ -157,8 +157,8 @@ def tpfpfn(goldres, queryres):
 
 def sparqlendpoint(query):
     try:
-        url = 'http://%s:%d/sparql'%(sparqlhost,int(sparqlport))
-        query = '''PREFIX wdt: <http://www.wikidata.org/property/> PREFIX wd: <http://www.wikidata.org/entity/> ''' + query
+        url = 'http://%s:%d/api/endpoint/sparql'%(sparqlhost,int(sparqlport))
+        query = '''PREFIX p: <http://www.wikidata.org/prop/> PREFIX pq: <http://www.wikidata.org/prop/qualifier/> PREFIX ps: <http://www.wikidata.org/prop/statement/>   PREFIX wd: <http://www.wikidata.org/entity/> PREFIX wds: <http://www.wikidata.org/entity/statement/> PREFIX wdt: <http://www.wikidata.org/prop/direct/> ''' + query
         #print(query)
         headers = {'Accept':'application/sparql-results+json'}
         r = requests.get(url, headers=headers, params={'format': 'json', 'query': query})
