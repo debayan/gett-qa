@@ -7,7 +7,7 @@
 
 ### Knowledge Bases
 
-First we must setup the knowledge bases required to replicate the results in the paper. For LC-QuAD 2.0 we use the NLIWOD verstion of Wikidata, while for SimpleQuestions-Wikidata, we use the Wiki4M version. For LC-QuAD 2.0, deploy the docker container hosted at https://hub.docker.com/r/qacompany/hdt-query-service and follow the instructions on the page to access the API locally. For SimpleQuestions-Wikidata, first setup an instance of Virtuoso DB, either via docker (https://hub.docker.com/r/tenforce/virtuoso/) or as a standalone service. Download the triples database from https://drive.google.com/file/d/14n36kPT3658jgf7aS0Z6cwB1_nsZLoIj/view?usp=sharing and place it in the data/ folder of virtuoso, and start the service.
+First we must setup the knowledge bases required to replicate the results in the paper. For LC-QuAD 2.0 we use the NLIWOD verstion of Wikidata, while for SimpleQuestions-Wikidata, we use the Wiki4M version. For LC-QuAD 2.0, deploy the docker container hosted at https://hub.docker.com/r/debayanin/hdt-query-service and follow the instructions on the page to access the API locally. For SimpleQuestions-Wikidata, first setup an instance of Virtuoso DB, either via docker (https://hub.docker.com/r/tenforce/virtuoso/) or as a standalone service. Download the triples database from https://drive.google.com/file/d/14n36kPT3658jgf7aS0Z6cwB1_nsZLoIj/view?usp=sharing and place it in the data/ folder of virtuoso, and start the service.
 
 ### Labels and Embedding Indices for Elasticsearch
 
@@ -51,8 +51,8 @@ Once the python dependencies are installed, we may run the code.
 ### Reproduce Results
 
 To directly reproduce the results in the paper one may download the pre-trained model weights.
-* LC-QuAD 2.0 https://drive.google.com/file/d/1gZ42bWD4NY25CZLNX7rfm2kwqZPfxuV9/view?usp=sharing
-* SimpleQuestions-Wikidata https://drive.google.com/file/d/1B_MwC9Jh505sBrukMsMi9mSXouQ9rnLq/view?usp=sharing
+* LC-QuAD 2.0 https://drive.google.com/file/d/1biMVZNG0L_gMbyuVHGbIbb2CGcir1AC8/view?usp=sharing
+* SimpleQuestions-Wikidata https://drive.google.com/file/d/1Ros4KuqS8nhNQ127EsPn1DnDI9Mdrbjs/view?usp=sharing
 
 Uncompress them and move them into the corresponding folders for the respective datasets.
 
@@ -66,12 +66,12 @@ Here edit the server host and port details of Elasticsearch and SPARQL endpoints
 To run the code with the model:
 
 ```
-# CUDA_VISIBLE_DEVICES=0 python -u t5_infer_kgembed.py --model_name_or_path models/epoch_99/ --validation_file data/test_kgembed_jsonlines_uniqorn_4921_1.json --source_prefix "summarize: " --per_device_eval_batch_size=50 --num_beams=3 | tee logs/logeval1.txt**
+# CUDA_VISIBLE_DEVICES=0 python -u t5_infer_kgembed.py --model_name_or_path models/epoch_49/ --validation_file data/test_kgembed_jsonlines_uniqorn_4921_1.json --source_prefix "summarize: " --per_device_eval_batch_size=50 --num_beams=3 | tee logs/logeval1.txt**
 ```
 Similarly for SimpleQuestions-Wikidata in its corresponding folder `simplequestions/`. Note that the SPARQL endpoint details will be virtuoso based and different.
 
 ```
-# CUDA_VISIBLE_DEVICES=2 python -u t5_infer_kgembed.py --model_name_or_path models/epoch_99/ --validation_file data/test_wiki4m_jsonlines_1.json --source_prefix "summarize: " --per_device_eval_batch_size=20 --num_beams=3 | tee logs/logeval1.txt
+# CUDA_VISIBLE_DEVICES=2 python -u t5_infer_kgembed.py --model_name_or_path models/epoch_24/ --validation_file data/test_wiki4m_jsonlines_1.json --source_prefix "summarize: " --per_device_eval_batch_size=20 --num_beams=3 | tee logs/logeval1.txt
 ```
 In `config.ini`change the values of `labelsort` and `embedsort` from 3,3 to 6,0 to produce results for label-based sorting only as reported in the paper.
 
@@ -80,13 +80,13 @@ In `config.ini`change the values of `labelsort` and `embedsort` from 3,3 to 6,0 
 To train, for example, LC-QuAD 2.0:
 
 ```
-# CUDA_VISIBLE_DEVICES=0 python -u train.py --model_name_or_path t5-base --train_file data/train_kgembed_jsonlines_1.json --validation_file data/dev_kgembed_jsonlines_1.json --source_prefix "summarize: " --output_dir modelx --per_device_train_batch_size=4 --per_device_eval_batch_size=8 --learning_rate=1e-4 --num_train_epochs=100
+# CUDA_VISIBLE_DEVICES=0 python -u train.py --model_name_or_path t5-base --train_file data/train_kgembed_jsonlines_1.json --validation_file data/dev_kgembed_jsonlines_1.json --source_prefix "summarize: " --output_dir modelx --per_device_train_batch_size=4 --per_device_eval_batch_size=8 --learning_rate=1e-4 --num_train_epochs=50
 ```
 
 For SimpleQuestions-Wikidata:
 
 ```
-# CUDA_VISIBLE_DEVICES=2 python -u train.py --model_name_or_path t5-base --train_file data/train_jsonlines_1.json --validation_file data/dev_jsonlines_1.json --source_prefix "summarize: " --output_dir modelx --per_device_train_batch_size=4 --per_device_eval_batch_size=8 --learning_rate=1e-4 --num_train_epochs=100
+# CUDA_VISIBLE_DEVICES=2 python -u train.py --model_name_or_path t5-base --train_file data/train_jsonlines_1.json --validation_file data/dev_jsonlines_1.json --source_prefix "summarize: " --output_dir modelx --per_device_train_batch_size=4 --per_device_eval_batch_size=8 --learning_rate=1e-4 --num_train_epochs=25
 ```
 
 ##  Generating Training Files
