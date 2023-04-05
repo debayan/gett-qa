@@ -1,11 +1,20 @@
 function submitQuestion() {
   event.preventDefault();
   const question = document.getElementById("question").value;
-  fetch(`/api/answer?question=${question}`)
+  fetch(`http://ltgpu2:5000/answer`,{
+    method: 'POST',
+    headers: {
+    'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      question: question
+    })
+  })
     .then(response => response.json())
     .then(data => {
-      const answer = data.answer;
-      document.getElementById("answer").innerHTML = answer;
+      const jsonOutput = JSON.stringify(data, null, 2);
+  const formattedOutput = `<pre>${jsonOutput}</pre>`;
+  document.getElementById('answer').innerHTML = formattedOutput;
     });
 }
 
