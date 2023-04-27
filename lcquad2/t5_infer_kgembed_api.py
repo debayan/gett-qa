@@ -5,6 +5,7 @@ from numpy.linalg import norm
 import re
 import argparse
 import json
+import base64
 import logging
 import math
 import os
@@ -35,6 +36,7 @@ from transformers import (
     SchedulerType,
     get_scheduler,
 )
+from flask_cors import CORS, cross_origin
 from transformers.utils import get_full_repo_name, is_offline_mode
 from transformers.utils.versions import require_version
 import itertools
@@ -117,50 +119,40 @@ def empty(r):
                     return True
     return False
 
-def tpfpfn2(goldres,queryres):
-    gold = []
-    query = []
-    tp = 0
-    fp = 0
-    fn = 0
-    if 'results' in goldres:
-        if 'bindings' in goldres['results']:
-            if goldres['results']['bindings']:
-                for x in goldres['results']['bindings']:
-                    value = list(x.values())[0]['value']
-                    gold.append(value)
-    else:
-        gold.append(goldres)  #For questions that do not have bindings array, like boolean, count, add the entire (singular) result to be compared, since tp fp fn does not make much sense here
-    if 'results' in queryres:
-        if 'bindings' in queryres['results']:
-            if queryres['results']['bindings']:
-                for x in queryres['results']['bindings']:
-                    value = list(x.values())[0]['value']
-                    query.append(value)
-    else:
-        query.append(queryres)
-    for g in gold:
-        if g in query:
-            tp += 1
-    for g in gold:
-        if g not in query:
-            fn += 1
-    for q in query:
-        if q not in gold:
-            fp += 1
-    return tp,fp,fn
+
+def fetchentitydetails(entityids,category):
+    entities = []
+    for entityid in entityids:
+        try:
+            url = f"https://www.wikidata.org/w/api.php?action=wbgetentities&ids={entityid}&format=json&props=labels|descriptions|claims"
+            print(url)
     
-
-def tpfpfn(goldres, queryres):
-    if goldres == queryres:
-        return 1,0,0 #tp,fp,fn
-    if not queryres:
-        return 0,0,1
-    if goldres != queryres:
-        return 0,1,1
-    print("LOGIC ERROR")
-    sys.exit(1)
-
+            # make a GET request to the API
+            response = requests.get(url)
+    
+            # extract the label, description, and image URL from the response
+            data = response.json()
+            label = data["entities"][entityid]["labels"]["en"]["value"]
+            description = data["entities"][entityid]["descriptions"]["en"]["value"]
+            print(label)
+            print(description)
+            if category == "entity":
+                try:
+                    image_url_filename = data["entities"][entityid]["claims"]["P18"][0]["mainsnak"]["datavalue"]["value"]
+                    image_url = f"https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/{image_url_filename}&width=100"
+                    # download the image and encode it as a base64 string
+                    image_data = requests.get(image_url).content
+                    encoded_image = base64.b64encode(image_data).decode('utf-8')
+                    # use the label, description, and image URL as needed
+                    entities.append({"id":entityid, "label":label, "description":description, "image":encoded_image})
+                except Exception as err:
+                    print(err)
+                    entities.append({"id":entityid, "label":label, "description":description})
+            else:
+                entities.append({"id":entityid, "label":label, "description":description})
+        except Exception as err:
+            print(err)
+    return entities
 
 def sparqlendpoint(query):
     try:
@@ -401,6 +393,8 @@ def infer(question):
                 kd = {}
                 entlabels = re.findall( r'@@entbegin wd: \|\| (.*?) @@entend', pred)
                 beamitem['entlabels'] = entlabels
+                beamitem['candidateentities_presort'] = {}
+                beamitem['candidateentities_postsort'] = {}
                 for emblabel in entlabels:
                     #print("entlabel:",emblabel)
                     kgembed = re.findall(r'<kgembed> (.*?) </kgembed>',emblabel)
@@ -418,16 +412,20 @@ def infer(question):
                     except Exception as err:
                         print(err)
                         continue
+                    beamitem['candidateentities_presort'][label] = fetchentitydetails([x[0] for x in ent_cands_dots[:labelsortlen]],"entity")
                     s = '''@@entbegin wd: || '''+label+''' <kgembed> '''+kgembed[0]+''' </kgembed> @@entend'''
                     kd[s] = [['wd:'+e[0],e[1]] for e in ent_cands_dots[:labelsortlen]]
                     kd[s] += [['wd:'+e[0],e[1]] for e in ent_cands_dots_sorted[:embedsortlen]]
+                    beamitem['candidateentities_postsort'][label] = fetchentitydetails([x[0] for x in ent_cands_dots[:labelsortlen]+ent_cands_dots_sorted[:embedsortlen]],"entity")
                 beamitem['rellabels'] = []
+                beamitem['candidaterelations'] = {}
                 for rel in ['p:','ps:','pq:','wdt:']:
                     rellabels = re.findall( r'@@relbegin '+rel+' \|\| (.*?) @@relend' ,pred)
                     beamitem['rellabels'] += rellabels
                     for label in rellabels:
                         print("rellabel:",label)
                         rel_cands = relcands(label)
+                        beamitem['candidaterelations'][label] = [fetchentitydetails(x,"relation") for x in rel_cands]
                         s = '''@@relbegin '''+rel+''' || '''+label+''' @@relend'''
                         kd[s] = [[rel+r[0],r[1]] for r in rel_cands]
                 iterlist = []
@@ -454,11 +452,13 @@ def infer(question):
                         print('querysparq:',m)
                         print("queryresul:",queryresult)
                         predents = re.findall(r'wd:(.*?) ',m)
+                        predents = fetchentitydetails(predents,"entity")
                         predrels = []
                         predrels += re.findall(r'wdt:(.*?) ', m)
                         predrels += re.findall(r'p:(.*?) ', m)
                         predrels += re.findall(r'ps:(.*?) ', m)
                         predrels += re.findall(r'pq:(.*?) ', m)
+                        predrels = fetchentitydetails(predrels,"relation")
                         beamitem['predicted_entities'] = predents
                         beamitem['predicted_relations'] = predrels
                         nonempty = True
@@ -467,11 +467,17 @@ def infer(question):
 
 
 
+
+
 app = Flask(__name__)
+cors = CORS(app)
+app.config['CORS_HEADERS'] = 'Content-Type'
 
 @app.route('/answer', methods=['POST'])
-def reverse_string():
+@cross_origin()
+def answer():
     data = request.get_json()
+    print(data)
     question = data['question']
     output_str = infer(question)
     return jsonify({'output': output_str})
