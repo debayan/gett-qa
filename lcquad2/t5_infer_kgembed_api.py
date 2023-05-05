@@ -119,6 +119,44 @@ def empty(r):
                     return True
     return False
 
+def fetchentitydetailssparql(entityids):
+    entities = []
+    for entityid in entityids:
+        try:
+            titlequery = ''' SELECT ?label WHERE {
+                             wd:%s rdfs:label ?label .
+                             FILTER (langMatches(lang(?label), "en"))
+                         } '''%(entityid)
+            titleresult = sparqlendpoint(titlequery)
+            title = titleresult['results']['bindings'][0]['label']['value']
+        except Exception as err:
+            print(err)
+            print("No title found for ",entityid)
+            title = ''
+        try:
+            descriptionquery = '''SELECT ?description WHERE {
+                                  wd:%s schema:description ?description .
+                                  FILTER (langMatches(lang(?description), "en")) }'''%(entityid)
+            descresult = sparqlendpoint(descriptionquery)
+            desc = descresult['results']['bindings'][0]['description']['value']
+        except Exception as err:
+            print(err)
+            print("No desc found for",entityid)
+            desc = ''
+
+        try:
+            imagequery = ''' SELECT ?image WHERE {
+                           wd:%s wdt:P18 ?image }'''%(entityid)
+            urlresult = sparqlendpoint(imagequery)
+            url = urlresult['results']['bindings'][0]['image']['value']
+            image_data = requests.get(url).content
+            encoded_image = base64.b64encode(image_data).decode('utf-8')
+        except Exception as err:
+            print(err)
+            print("No image for",entityid)
+            encoded_image = None 
+        entities.append({"id":entityid, "label":title, "description":desc, "image":encoded_image})
+    return entities
 
 def fetchentitydetails(entityids,category):
     entities = []
@@ -412,11 +450,11 @@ def infer(question):
                     except Exception as err:
                         print(err)
                         continue
-                    beamitem['candidateentities_presort'][label] = fetchentitydetails([x[0] for x in ent_cands_dots[:labelsortlen]],"entity")
+                    beamitem['candidateentities_presort'][label] = fetchentitydetailssparql([x[0] for x in ent_cands_dots[:labelsortlen]])
                     s = '''@@entbegin wd: || '''+label+''' <kgembed> '''+kgembed[0]+''' </kgembed> @@entend'''
                     kd[s] = [['wd:'+e[0],e[1]] for e in ent_cands_dots[:labelsortlen]]
                     kd[s] += [['wd:'+e[0],e[1]] for e in ent_cands_dots_sorted[:embedsortlen]]
-                    beamitem['candidateentities_postsort'][label] = fetchentitydetails([x[0] for x in ent_cands_dots[:labelsortlen]+ent_cands_dots_sorted[:embedsortlen]],"entity")
+                    beamitem['candidateentities_postsort'][label] = fetchentitydetailssparql([x[0] for x in ent_cands_dots[:labelsortlen]+ent_cands_dots_sorted[:embedsortlen]])
                 beamitem['rellabels'] = []
                 beamitem['candidaterelations'] = {}
                 for rel in ['p:','ps:','pq:','wdt:']:
@@ -425,7 +463,7 @@ def infer(question):
                     for label in rellabels:
                         print("rellabel:",label)
                         rel_cands = relcands(label)
-                        beamitem['candidaterelations'][label] = [fetchentitydetails(x,"relation") for x in rel_cands]
+                        beamitem['candidaterelations'][label] = [fetchentitydetailssparql(x) for x in rel_cands]
                         s = '''@@relbegin '''+rel+''' || '''+label+''' @@relend'''
                         kd[s] = [[rel+r[0],r[1]] for r in rel_cands]
                 iterlist = []
@@ -452,13 +490,13 @@ def infer(question):
                         print('querysparq:',m)
                         print("queryresul:",queryresult)
                         predents = re.findall(r'wd:(.*?) ',m)
-                        predents = fetchentitydetails(predents,"entity")
+                        predents = fetchentitydetailssparql(predents)
                         predrels = []
                         predrels += re.findall(r'wdt:(.*?) ', m)
                         predrels += re.findall(r'p:(.*?) ', m)
                         predrels += re.findall(r'ps:(.*?) ', m)
                         predrels += re.findall(r'pq:(.*?) ', m)
-                        predrels = fetchentitydetails(predrels,"relation")
+                        predrels = fetchentitydetails(predrels)
                         beamitem['predicted_entities'] = predents
                         beamitem['predicted_relations'] = predrels
                         nonempty = True
