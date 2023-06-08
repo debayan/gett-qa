@@ -109,4 +109,35 @@ For SimpleQuestions-Wikidata:
 # python tojsonlines.py x.json data/test_wiki4m_jsonlines_1.json
 ```
 
+## Citation
 
+```
+@inproceedings{DBLP:conf/esws/BanerjeeNUB23,
+  author       = {Debayan Banerjee and
+                  Pranav Ajit Nair and
+                  Ricardo Usbeck and
+                  Chris Biemann},
+  editor       = {Catia Pesquita and
+                  Ernesto Jim{\'{e}}nez{-}Ruiz and
+                  Jamie P. McCusker and
+                  Daniel Faria and
+                  Mauro Dragoni and
+                  Anastasia Dimou and
+                  Rapha{\"{e}}l Troncy and
+                  Sven Hertling},
+  title        = {{GETT-QA:} Graph Embedding Based {T2T} Transformer for Knowledge Graph
+                  Question Answering},
+  booktitle    = {The Semantic Web - 20th International Conference, {ESWC} 2023, Hersonissos,
+                  Crete, Greece, May 28 - June 1, 2023, Proceedings},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {13870},
+  pages        = {279--297},
+  publisher    = {Springer},
+  year         = {2023},
+  url          = {https://doi.org/10.1007/978-3-031-33455-9\_17},
+  doi          = {10.1007/978-3-031-33455-9\_17},
+  timestamp    = {Fri, 02 Jun 2023 16:15:08 +0200},
+  biburl       = {https://dblp.org/rec/conf/esws/BanerjeeNUB23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
